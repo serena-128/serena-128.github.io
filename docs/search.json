@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Serena Emedeke",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Hi, I’m Serena Emedeke.\nThis is my ePortfolio where I showcase my projects, skills, and learning journey."
   },
   {
     "objectID": "about.html",
@@ -47,5 +47,12 @@
     "title": "Contact",
     "section": "References",
     "text": "References\nReferences available upon request"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Serena Emedeke.\nThis is my ePortfolio where I showcase my projects, skills, and learning journey."
   }
 ]

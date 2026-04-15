@@ -1,7 +1,19 @@
 ---
-title: "Serena Emedeke"
+title: "Home"
+about:
+  template: jolla
+  image: images/profile.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/serena-128
+    - icon: envelope
+      text: Email
+      href: mailto:samhin.eme12345@gmail.com
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I’m Serena Emedeke.
+
+This is my ePortfolio where I showcase my projects, skills, and learning journey.
