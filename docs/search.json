@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Serena Emedeke",
+    "section": "",
+    "text": "=— title: “Reflection” —"
+  },
+  {
+    "objectID": "reflection.html#reflection",
+    "href": "reflection.html#reflection",
+    "title": "Serena Emedeke",
+    "section": "Reflection",
+    "text": "Reflection\nThis portfolio project is helping me build skills in Quarto, Git, GitHub Pages, and web design.\nI am learning how to organise a website, manage files properly, and present my work in a more professional way."
   }
 ]

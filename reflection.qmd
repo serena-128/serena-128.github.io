@@ -1,0 +1,9 @@
+---
+title: "Reflection"
+---
+
+## Reflection
+
+This portfolio project is helping me build skills in Quarto, Git, GitHub Pages, and web design.
+
+I am learning how to organise a website, manage files properly, and present my work in a more professional way.
