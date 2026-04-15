@@ -12,6 +12,8 @@ website:
         text: About
       - href: reflection.qmd
         text: Reflection
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:
