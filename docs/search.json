@@ -54,5 +54,19 @@
     "title": "Home",
     "section": "",
     "text": "Hi, I’m Serena Emedeke.\nThis is my ePortfolio where I showcase my projects, skills, and learning journey."
+  },
+  {
+    "objectID": "projects/list/index.html",
+    "href": "projects/list/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "This section will showcase my Python projects, data analysis work, and visualisations."
+  },
+  {
+    "objectID": "projects/list/index.html#projects",
+    "href": "projects/list/index.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "This section will showcase my Python projects, data analysis work, and visualisations."
   }
 ]
