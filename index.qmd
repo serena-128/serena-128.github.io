@@ -2,7 +2,7 @@
 title: "Home"
 about:
   template: jolla
-  image: images/profile.jpg
+  image: images/profile.png
   links:
     - icon: github
       text: GitHub
