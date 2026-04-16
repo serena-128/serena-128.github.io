@@ -88,7 +88,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "This section will showcase my Python projects."
+    "text": "This section showcases my Python projects.\n\n\nA Python project exploring the relationship between study time and grades.\nView Project →"
   },
   {
     "objectID": "projects/index.html#projects",
@@ -124,5 +124,12 @@
     "title": "Student Performance Analysis",
     "section": "Reflection",
     "text": "Reflection\nThis project helped me practise using Python for simple data analysis and visualisation."
+  },
+  {
+    "objectID": "projects/index.html#my-projects",
+    "href": "projects/index.html#my-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "This section showcases my Python projects.\n\n\nA Python project exploring the relationship between study time and grades.\nView Project →"
   }
 ]
