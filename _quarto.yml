@@ -10,15 +10,19 @@ website:
         text: Home
       - href: about.qmd
         text: About
+      - href: projects/index.qmd
+        text: Projects
       - href: reflection.qmd
         text: Reflection
       - href: contact.qmd
         text: Contact
-      - href: projects/index.qmd
-        text: Projects
+
+    right:
+      - href: cv/Serena_Emedeke_CV.pdf
+        text: CV
+        target: _blank
 
 format:
   html:
     css: styles.css
     toc: true
-
