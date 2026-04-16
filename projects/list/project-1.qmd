@@ -14,6 +14,7 @@ This project explores how study hours relate to student performance.
 
 ```{python}
 import pandas as pd
+import matplotlib.pyplot as plt
 
 df = pd.DataFrame({
     "StudyHours": [1, 2, 3, 4, 5],
@@ -23,6 +24,14 @@ df = pd.DataFrame({
 df
 ```
 
+```{python}
+plt.plot(df["StudyHours"], df["Score"], marker="o")
+plt.xlabel("Study Hours")
+plt.ylabel("Score")
+plt.title("Study Hours vs Score")
+plt.show()
+```
+
 ## Reflection
 
-This project helped me practise using Python for simple data analysis.
+This project helped me practise using Python for simple data analysis and visualisation.

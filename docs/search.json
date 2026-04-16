@@ -116,13 +116,13 @@
     "href": "projects/list/project-1.html#python-code",
     "title": "Student Performance Analysis",
     "section": "Python Code",
-    "text": "Python Code\n\nimport pandas as pd\n\ndf = pd.DataFrame({\n    \"StudyHours\": [1, 2, 3, 4, 5],\n    \"Score\": [50, 55, 65, 72, 85]\n})\n\ndf\n\n\n\n\n\n\n\n\nStudyHours\nScore\n\n\n\n\n0\n1\n50\n\n\n1\n2\n55\n\n\n2\n3\n65\n\n\n3\n4\n72\n\n\n4\n5\n85"
+    "text": "Python Code\n\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\ndf = pd.DataFrame({\n    \"StudyHours\": [1, 2, 3, 4, 5],\n    \"Score\": [50, 55, 65, 72, 85]\n})\n\ndf\n\n\n\n\n\n\n\n\nStudyHours\nScore\n\n\n\n\n0\n1\n50\n\n\n1\n2\n55\n\n\n2\n3\n65\n\n\n3\n4\n72\n\n\n4\n5\n85\n\n\n\n\n\n\n\n\nplt.plot(df[\"StudyHours\"], df[\"Score\"], marker=\"o\")\nplt.xlabel(\"Study Hours\")\nplt.ylabel(\"Score\")\nplt.title(\"Study Hours vs Score\")\nplt.show()"
   },
   {
     "objectID": "projects/list/project-1.html#reflection",
     "href": "projects/list/project-1.html#reflection",
     "title": "Student Performance Analysis",
     "section": "Reflection",
-    "text": "Reflection\nThis project helped me practise using Python for simple data analysis."
+    "text": "Reflection\nThis project helped me practise using Python for simple data analysis and visualisation."
   }
 ]
