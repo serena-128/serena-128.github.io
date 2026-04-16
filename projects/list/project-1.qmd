@@ -1,0 +1,28 @@
+---
+title: "Student Performance Analysis"
+description: "A simple Python project exploring the relationship between study time and grades."
+author: "Serena Emedeke"
+date: 2026-04-16
+categories: [Python, Data Analysis]
+---
+
+## Overview
+
+This project explores how study hours relate to student performance.
+
+## Python Code
+
+```{python}
+import pandas as pd
+
+df = pd.DataFrame({
+    "StudyHours": [1, 2, 3, 4, 5],
+    "Score": [50, 55, 65, 72, 85]
+})
+
+df
+```
+
+## Reflection
+
+This project helped me practise using Python for simple data analysis.

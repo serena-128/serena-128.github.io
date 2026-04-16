@@ -96,5 +96,33 @@
     "title": "Projects",
     "section": "",
     "text": "This section will showcase my Python projects."
+  },
+  {
+    "objectID": "projects/list/project-1.html",
+    "href": "projects/list/project-1.html",
+    "title": "Student Performance Analysis",
+    "section": "",
+    "text": "This project explores how study hours relate to student performance."
+  },
+  {
+    "objectID": "projects/list/project-1.html#overview",
+    "href": "projects/list/project-1.html#overview",
+    "title": "Student Performance Analysis",
+    "section": "",
+    "text": "This project explores how study hours relate to student performance."
+  },
+  {
+    "objectID": "projects/list/project-1.html#python-code",
+    "href": "projects/list/project-1.html#python-code",
+    "title": "Student Performance Analysis",
+    "section": "Python Code",
+    "text": "Python Code\n\nimport pandas as pd\n\ndf = pd.DataFrame({\n    \"StudyHours\": [1, 2, 3, 4, 5],\n    \"Score\": [50, 55, 65, 72, 85]\n})\n\ndf\n\n\n\n\n\n\n\n\nStudyHours\nScore\n\n\n\n\n0\n1\n50\n\n\n1\n2\n55\n\n\n2\n3\n65\n\n\n3\n4\n72\n\n\n4\n5\n85"
+  },
+  {
+    "objectID": "projects/list/project-1.html#reflection",
+    "href": "projects/list/project-1.html#reflection",
+    "title": "Student Performance Analysis",
+    "section": "Reflection",
+    "text": "Reflection\nThis project helped me practise using Python for simple data analysis."
   }
 ]
