@@ -1,7 +1,0 @@
----
-title: "Projects"
----
-
-## Projects
-
-This section will showcase my Python projects, data analysis work, and visualisations.
