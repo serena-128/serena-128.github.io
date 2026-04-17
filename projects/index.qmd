@@ -11,3 +11,11 @@ This section showcases my Python projects.
 A Python project exploring the relationship between study time and grades.
 
 [View Project →](list/project-1.qmd)
+
+---
+
+### Monthly Budget Analysis
+
+A Python project analysing monthly income and expenses.
+
+[View Project →](list/project-2.qmd)
