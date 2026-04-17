@@ -1,0 +1,28 @@
+---
+title: "Monthly Budget Analysis"
+description: "A simple Python project analysing monthly income and expenses."
+author: "Serena Emedeke"
+date: 2026-04-16
+categories: [Python, Data Analysis, Budgeting]
+---
+
+## Overview
+
+This project explores a simple monthly budget using Python.
+
+## Python Code
+
+```{python}
+import pandas as pd
+
+budget = pd.DataFrame({
+    "Category": ["Rent", "Food", "Transport", "Entertainment", "Savings"],
+    "Amount": [800, 250, 100, 120, 300]
+})
+
+budget
+```
+
+## Reflection
+
+This project helped me practise organising and analysing data in Python.

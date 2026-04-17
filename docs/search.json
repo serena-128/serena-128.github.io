@@ -131,5 +131,33 @@
     "title": "Projects",
     "section": "",
     "text": "This section showcases my Python projects.\n\n\nA Python project exploring the relationship between study time and grades.\nView Project →"
+  },
+  {
+    "objectID": "projects/list/project-2.html",
+    "href": "projects/list/project-2.html",
+    "title": "Monthly Budget Analysis",
+    "section": "",
+    "text": "This project explores a simple monthly budget using Python."
+  },
+  {
+    "objectID": "projects/list/project-2.html#overview",
+    "href": "projects/list/project-2.html#overview",
+    "title": "Monthly Budget Analysis",
+    "section": "",
+    "text": "This project explores a simple monthly budget using Python."
+  },
+  {
+    "objectID": "projects/list/project-2.html#python-code",
+    "href": "projects/list/project-2.html#python-code",
+    "title": "Monthly Budget Analysis",
+    "section": "Python Code",
+    "text": "Python Code\n\nimport pandas as pd\n\nbudget = pd.DataFrame({\n    \"Category\": [\"Rent\", \"Food\", \"Transport\", \"Entertainment\", \"Savings\"],\n    \"Amount\": [800, 250, 100, 120, 300]\n})\n\nbudget\n\n\n\n\n\n\n\n\nCategory\nAmount\n\n\n\n\n0\nRent\n800\n\n\n1\nFood\n250\n\n\n2\nTransport\n100\n\n\n3\nEntertainment\n120\n\n\n4\nSavings\n300"
+  },
+  {
+    "objectID": "projects/list/project-2.html#reflection",
+    "href": "projects/list/project-2.html#reflection",
+    "title": "Monthly Budget Analysis",
+    "section": "Reflection",
+    "text": "Reflection\nThis project helped me practise organising and analysing data in Python."
   }
 ]
