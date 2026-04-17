@@ -14,6 +14,7 @@ This project explores a simple monthly budget using Python.
 
 ```{python}
 import pandas as pd
+import matplotlib.pyplot as plt
 
 budget = pd.DataFrame({
     "Category": ["Rent", "Food", "Transport", "Entertainment", "Savings"],
@@ -23,6 +24,15 @@ budget = pd.DataFrame({
 budget
 ```
 
+```{python}
+plt.bar(budget["Category"], budget["Amount"])
+plt.xlabel("Category")
+plt.ylabel("Amount (€)")
+plt.title("Monthly Budget Breakdown")
+plt.xticks(rotation=30)
+plt.show()
+```
+
 ## Reflection
 
-This project helped me practise organising and analysing data in Python.
+This project helped me practise organising data and creating visualisations using Python.
