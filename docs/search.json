@@ -18,14 +18,14 @@
     "href": "reflection.html",
     "title": "Reflection",
     "section": "",
-    "text": "This ePortfolio project has helped me develop practical skills in web development, version control, and data analysis.\n\n\nThroughout this project, I learned how to use Quarto to build a structured website and present my work professionally. I also developed my understanding of Git and GitHub by committing changes regularly and managing my project step by step.\nIn addition, I improved my Python skills by creating projects that use data analysis and visualisation. I learned how to use libraries such as pandas and matplotlib to organise data and present it clearly through charts.\n\n\n\nOne of the main challenges I faced was setting up Python and ensuring that my code executed correctly within Quarto. I also encountered issues with file structure and navigation, particularly when linking pages correctly within the website.\nHowever, by troubleshooting errors and following a step-by-step approach, I was able to resolve these issues and improve my confidence in using these tools.\n\n\n\nThis project helped me understand the importance of organising files properly, writing clean code, and presenting information clearly. I also learned how important it is to test and debug issues when working with web technologies and programming tools.\n\n\n\nIn the future, I would like to expand my skills further by creating more advanced data analysis projects and improving the design of my website. These skills will be useful for both my academic work and future career opportunities, as they demonstrate my ability to combine technical knowledge with professional presentation."
+    "text": "Developing this ePortfolio has been an important learning experience because it allowed me to combine technical, organisational, and reflective skills in one project."
   },
   {
     "objectID": "reflection.html#reflection",
     "href": "reflection.html#reflection",
     "title": "Reflection",
     "section": "",
-    "text": "This ePortfolio project has helped me develop practical skills in web development, version control, and data analysis.\n\n\nThroughout this project, I learned how to use Quarto to build a structured website and present my work professionally. I also developed my understanding of Git and GitHub by committing changes regularly and managing my project step by step.\nIn addition, I improved my Python skills by creating projects that use data analysis and visualisation. I learned how to use libraries such as pandas and matplotlib to organise data and present it clearly through charts.\n\n\n\nOne of the main challenges I faced was setting up Python and ensuring that my code executed correctly within Quarto. I also encountered issues with file structure and navigation, particularly when linking pages correctly within the website.\nHowever, by troubleshooting errors and following a step-by-step approach, I was able to resolve these issues and improve my confidence in using these tools.\n\n\n\nThis project helped me understand the importance of organising files properly, writing clean code, and presenting information clearly. I also learned how important it is to test and debug issues when working with web technologies and programming tools.\n\n\n\nIn the future, I would like to expand my skills further by creating more advanced data analysis projects and improving the design of my website. These skills will be useful for both my academic work and future career opportunities, as they demonstrate my ability to combine technical knowledge with professional presentation."
+    "text": "Developing this ePortfolio has been an important learning experience because it allowed me to combine technical, organisational, and reflective skills in one project."
   },
   {
     "objectID": "contact.html",
@@ -215,5 +215,33 @@
     "title": "Student Performance Analysis",
     "section": "Interpretation",
     "text": "Interpretation\nThe chart shows a clear positive relationship between study hours and performance. As study time increases, scores also increase."
+  },
+  {
+    "objectID": "reflection.html#skills-developed",
+    "href": "reflection.html#skills-developed",
+    "title": "Reflection",
+    "section": "Skills Developed",
+    "text": "Skills Developed\nThrough this work, I strengthened my understanding of Quarto, Git, GitHub Pages, Python, and web design. I learned how to structure a website properly, manage files in a logical way, and present work in a clearer and more professional format."
+  },
+  {
+    "objectID": "reflection.html#challenges-and-problem-solving",
+    "href": "reflection.html#challenges-and-problem-solving",
+    "title": "Reflection",
+    "section": "Challenges and Problem-Solving",
+    "text": "Challenges and Problem-Solving\nOne of the main challenges I faced was understanding how the different parts of the project fit together, especially when working with page structure, navigation, rendering, and Python execution inside Quarto. I also experienced issues with missing files, formatting errors, and Python package setup.\nWorking through these problems taught me the importance of patience, testing, and careful troubleshooting. Rather than giving up when errors appeared, I learned to fix them step by step and improve the quality of my work.\n\n\n\n\n\n\nNote\n\n\n\nA key lesson from this project was that professional digital work is not only about writing content, but also about organisation, presentation, debugging, and revision."
+  },
+  {
+    "objectID": "reflection.html#what-i-learned-about-myself",
+    "href": "reflection.html#what-i-learned-about-myself",
+    "title": "Reflection",
+    "section": "What I Learned About Myself",
+    "text": "What I Learned About Myself\nThis project showed me that I am capable of learning technical tools and applying them in a practical way. It also helped me build confidence in presenting my work more professionally and thinking more critically about how projects are communicated to others."
+  },
+  {
+    "objectID": "reflection.html#future-goals",
+    "href": "reflection.html#future-goals",
+    "title": "Reflection",
+    "section": "Future Goals",
+    "text": "Future Goals\nIn the future, I would like to continue improving my skills in Python, data visualisation, and digital presentation. I also want to build more advanced projects that demonstrate stronger analytical ability and creative problem-solving. These skills will be valuable in both academic work and future career opportunities."
   }
 ]
