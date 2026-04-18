@@ -4,11 +4,22 @@ description: "A simple Python project exploring the relationship between study t
 author: "Serena Emedeke"
 date: 2026-04-16
 categories: [Python, Data Analysis]
+format:
+  html:
+    code-fold: true
+    code-tools: true
 ---
 
 ## Overview
 
-This project explores how study hours relate to student performance.
+This project explores how study hours relate to student performance and demonstrates basic data analysis using Python.
+
+## Objectives
+
+- organise data clearly
+- analyse the relationship between variables
+- visualise results
+- reflect on findings
 
 ## Python Code
 
@@ -32,6 +43,10 @@ plt.title("Study Hours vs Score")
 plt.show()
 ```
 
+## Interpretation
+
+The chart shows a clear positive relationship between study hours and performance. As study time increases, scores also increase.
+
 ## Reflection
 
-This project helped me practise using Python for simple data analysis and visualisation.
+This project helped me practise using Python for data analysis and visualisation. It also improved my understanding of how charts can be used to communicate trends clearly.
