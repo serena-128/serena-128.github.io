@@ -1,0 +1,77 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+$font-family-sans-serif: "Inter", sans-serif;
+$body-bg: #f8fafc;
+$body-color: #1f2937;
+$link-color: #2563eb;
+$navbar-bg: #111827;
+$navbar-fg: #ffffff;
+$primary: #1f3c88;
+
+/*-- scss:rules --*/
+body {
+  font-family: "Inter", sans-serif;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  font-weight: 700;
+  letter-spacing: 0.3px;
+  color: #1f3c88;
+}
+
+h1 {
+  font-size: 2.8rem;
+}
+
+p {
+  font-size: 1.05rem;
+}
+
+.navbar {
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+}
+
+.navbar a {
+  font-weight: 600;
+}
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #1f3c88;
+}
+
+.about-entity img {
+  border-radius: 50%;
+  border: 4px solid #1f3c88;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+
+.callout {
+  border-radius: 12px;
+  background-color: #eef4ff;
+  border-left: 5px solid #1f3c88;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(90deg, #1f3c88, #3a6ea5);
+  color: white;
+}
+
+.table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.quarto-title-block {
+  text-align: center;
+  margin-top: 40px;
+}

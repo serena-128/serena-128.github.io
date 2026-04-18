@@ -8,7 +8,6 @@ website:
 
   navbar:
     logo: images/logo.png
-
     left:
       - href: index.qmd
         text: Home
@@ -20,14 +19,23 @@ website:
         text: Reflection
       - href: contact.qmd
         text: Contact
-
     right:
       - href: cv/Serena_Emedeke_CV.pdf
         text: CV
         target: _blank
+      - href: https://github.com/serena-128
+        text: GitHub
+        target: _blank
+
+  page-footer:
+    left: "© 2026 Serena Emedeke"
+    right: "Built with Quarto"
 
 format:
   html:
-    theme: lux
-    css: styles.css
+    theme:
+      - lux
+      - styles.scss
     toc: true
+    code-fold: true
+    code-tools: true
