@@ -4,7 +4,11 @@ title: "Projects"
 
 ## My Projects
 
-This section showcases my Python projects.
+This section showcases Python-based projects that demonstrate my ability to analyse data, interpret results, and communicate findings through code and visualisations.
+
+::: {.callout-important}
+Each project includes **active executable Python code**, structured explanation, and a visual output.
+:::
 
 ### Student Performance Analysis
 
@@ -16,6 +20,6 @@ A Python project exploring the relationship between study time and grades.
 
 ### Monthly Budget Analysis
 
-A Python project analysing monthly income and expenses.
+A Python project analysing monthly income and expenses through tabular and graphical output.
 
 [View Project →](list/project-2.qmd)
