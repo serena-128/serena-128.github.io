@@ -45,3 +45,12 @@ Insights into my learning process and skill development.
 ### 📄 CV & Contact  
 Access to my CV and ways to connect with me.
 :::
+## Featured Projects
+
+### 📊 Student Performance Analysis  
+A Python project exploring the relationship between study time and grades using data visualisation.  
+[View Project](projects/list/project-1.qmd)
+
+### 💰 Monthly Budget Analysis  
+A Python project analysing income and expenses with graphical insights.  
+[View Project](projects/list/project-2.qmd)

@@ -29,6 +29,11 @@ p {
   font-size: 1.05rem;
 }
 
+main {
+  max-width: 900px;
+  margin: auto;
+}
+
 .navbar {
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
 }
@@ -55,10 +60,26 @@ a:hover {
   object-fit: cover;
 }
 
+.about-links a {
+  padding: 10px 16px;
+  border-radius: 10px;
+  background-color: #1f3c88;
+  color: white !important;
+  font-weight: 600;
+  margin: 5px;
+  display: inline-block;
+}
+
+.about-links a:hover {
+  background-color: #3a6ea5;
+  text-decoration: none;
+}
+
 .callout {
   border-radius: 12px;
-  background-color: #eef4ff;
+  background-color: #f0f6ff;
   border-left: 5px solid #1f3c88;
+  padding: 1rem;
 }
 
 .quarto-title-banner {

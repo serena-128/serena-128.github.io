@@ -151,7 +151,7 @@
     "href": "projects/list/project-2.html#python-code",
     "title": "Monthly Budget Analysis",
     "section": "Python Code",
-    "text": "Python Code\n\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nbudget = pd.DataFrame({\n    \"Category\": [\"Rent\", \"Food\", \"Transport\", \"Entertainment\", \"Savings\"],\n    \"Amount\": [800, 250, 100, 120, 300]\n})\n\nbudget\n\n\n\n\n\n\n\n\nCategory\nAmount\n\n\n\n\n0\nRent\n800\n\n\n1\nFood\n250\n\n\n2\nTransport\n100\n\n\n3\nEntertainment\n120\n\n\n4\nSavings\n300\n\n\n\n\n\n\n\n\nplt.bar(budget[\"Category\"], budget[\"Amount\"])\nplt.xlabel(\"Category\")\nplt.ylabel(\"Amount (€)\")\nplt.title(\"Monthly Budget Breakdown\")\nplt.xticks(rotation=30)\nplt.show()"
+    "text": "Python Code\n\n\nCode\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nbudget = pd.DataFrame({\n    \"Category\": [\"Rent\", \"Food\", \"Transport\", \"Entertainment\", \"Savings\"],\n    \"Amount\": [800, 250, 100, 120, 300]\n})\n\nbudget\n\n\n\n\n\n\n\n\n\nCategory\nAmount\n\n\n\n\n0\nRent\n800\n\n\n1\nFood\n250\n\n\n2\nTransport\n100\n\n\n3\nEntertainment\n120\n\n\n4\nSavings\n300\n\n\n\n\n\n\n\n\n\nCode\nplt.bar(budget[\"Category\"], budget[\"Amount\"])\nplt.xlabel(\"Category\")\nplt.ylabel(\"Amount (€)\")\nplt.title(\"Monthly Budget Breakdown\")\nplt.xticks(rotation=30)\nplt.show()"
   },
   {
     "objectID": "projects/list/project-2.html#reflection",
@@ -166,5 +166,12 @@
     "title": "Home",
     "section": "What You’ll Find Here",
     "text": "What You’ll Find Here\n\n\n\n\n\n\nTip📌 Professional Profile\n\n\n\nInformation about my background, skills, and experience.\n\n\n\n\n\n\n\n\nTip📊 Data Projects\n\n\n\nPython-based projects with data analysis and visualisations.\n\n\n\n\n\n\n\n\nTip🧠 Reflection\n\n\n\nInsights into my learning process and skill development.\n\n\n\n\n\n\n\n\nTip📄 CV & Contact\n\n\n\nAccess to my CV and ways to connect with me."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Home",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n📊 Student Performance Analysis\nA Python project exploring the relationship between study time and grades using data visualisation.\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses with graphical insights.\nView Project"
   }
 ]
