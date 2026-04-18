@@ -3,17 +3,45 @@ title: "Home"
 about:
   template: jolla
   image: images/profile.png
+  image-shape: round
   links:
     - icon: github
       text: GitHub
       href: https://github.com/serena-128
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/YOUR-LINKEDIN
     - icon: envelope
       text: Email
-      href: mailto:samhin.eme12345@gmail.com
+      href: mailto:YOUR-EMAIL@example.com
 ---
 
 ## Welcome
 
-Hi, I’m Serena Emedeke.
+Hi, I’m **Serena Emedeke**, and this ePortfolio showcases my academic work, technical projects, and professional development.
 
-This is my ePortfolio where I showcase my projects, skills, and learning journey.
+::: {.callout-note}
+This portfolio highlights my skills in **Quarto, Git, GitHub, Python, data analysis, and digital presentation**.
+:::
+
+## What You’ll Find Here
+
+::: {.callout-tip}
+### 📌 Professional Profile  
+Information about my background, skills, and experience.
+:::
+
+::: {.callout-tip}
+### 📊 Data Projects  
+Python-based projects with data analysis and visualisations.
+:::
+
+::: {.callout-tip}
+### 🧠 Reflection  
+Insights into my learning process and skill development.
+:::
+
+::: {.callout-tip}
+### 📄 CV & Contact  
+Access to my CV and ways to connect with me.
+:::
