@@ -32,7 +32,7 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Email: samhin.eme12345@gmail.com\n\nGitHub: https://github.com/serena-128"
+    "text": "If you would like to get in touch, please use the details below.\n\nEmail: samhineme128@gmail.com\nGitHub: serena-128\nLinkedIn: Your LinkedIn Profile"
   },
   {
     "objectID": "contact.html#contact-me",
@@ -46,7 +46,7 @@
     "href": "contact.html#references",
     "title": "Contact",
     "section": "References",
-    "text": "References\nReferences available upon request"
+    "text": "References\nReferences are available upon request.\n\n\n\n\n\n\nTip\n\n\n\nThank you for visiting my ePortfolio."
   },
   {
     "objectID": "index.html#welcome",
@@ -243,5 +243,12 @@
     "title": "Reflection",
     "section": "Future Goals",
     "text": "Future Goals\nIn the future, I would like to continue improving my skills in Python, data visualisation, and digital presentation. I also want to build more advanced projects that demonstrate stronger analytical ability and creative problem-solving. These skills will be valuable in both academic work and future career opportunities."
+  },
+  {
+    "objectID": "contact.html#contact",
+    "href": "contact.html#contact",
+    "title": "Contact",
+    "section": "",
+    "text": "If you would like to get in touch, please use the details below.\n\nEmail: samhineme128@gmail.com\nGitHub: serena-128\nLinkedIn: Your LinkedIn Profile"
   }
 ]
