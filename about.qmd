@@ -1,5 +1,29 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+## About Me
+
+I am a motivated student with a growing interest in **data analysis, web technologies, and professional digital presentation**. This portfolio reflects the technical and creative skills I have developed through building a structured website and presenting projects in a clear and professional way.
+
+::: {.callout-tip}
+My main strengths include **organisation, adaptability, problem-solving, and willingness to learn new tools**.
+:::
+
+## Skills
+
+| Skill | Description |
+|---|---|
+| Quarto | Building and publishing structured websites |
+| Git & GitHub | Managing files, commits, and version control |
+| Python | Data analysis and visualisation |
+| Web Design | Layout, styling, and presentation |
+| Communication | Explaining ideas clearly and professionally |
+
+## Academic and Professional Goals
+
+My goal is to continue developing technical and analytical skills that will support both my academic progress and future career opportunities. I want to improve my confidence in presenting projects, solving technical problems, and using digital tools in a professional setting.
+
+## What this portfolio represents
+
+This ePortfolio demonstrates not only completed work, but also my progress in learning how to plan, build, refine, and present digital projects effectively.

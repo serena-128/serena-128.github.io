@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "I am a motivated student with a growing interest in data analysis, web technologies, and professional digital presentation. This portfolio reflects the technical and creative skills I have developed through building a structured website and presenting projects in a clear and professional way.\n\n\n\n\n\n\nTip\n\n\n\nMy main strengths include organisation, adaptability, problem-solving, and willingness to learn new tools."
   },
   {
     "objectID": "reflection.html",
@@ -173,5 +173,33 @@
     "title": "Home",
     "section": "Featured Projects",
     "text": "Featured Projects\n\n📊 Student Performance Analysis\nA Python project exploring the relationship between study time and grades using data visualisation.\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses with graphical insights.\nView Project"
+  },
+  {
+    "objectID": "about.html#about-me",
+    "href": "about.html#about-me",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a motivated student with a growing interest in data analysis, web technologies, and professional digital presentation. This portfolio reflects the technical and creative skills I have developed through building a structured website and presenting projects in a clear and professional way.\n\n\n\n\n\n\nTip\n\n\n\nMy main strengths include organisation, adaptability, problem-solving, and willingness to learn new tools."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\n\n\nSkill\nDescription\n\n\n\n\nQuarto\nBuilding and publishing structured websites\n\n\nGit & GitHub\nManaging files, commits, and version control\n\n\nPython\nData analysis and visualisation\n\n\nWeb Design\nLayout, styling, and presentation\n\n\nCommunication\nExplaining ideas clearly and professionally"
+  },
+  {
+    "objectID": "about.html#academic-and-professional-goals",
+    "href": "about.html#academic-and-professional-goals",
+    "title": "About Me",
+    "section": "Academic and Professional Goals",
+    "text": "Academic and Professional Goals\nMy goal is to continue developing technical and analytical skills that will support both my academic progress and future career opportunities. I want to improve my confidence in presenting projects, solving technical problems, and using digital tools in a professional setting."
+  },
+  {
+    "objectID": "about.html#what-this-portfolio-represents",
+    "href": "about.html#what-this-portfolio-represents",
+    "title": "About Me",
+    "section": "What this portfolio represents",
+    "text": "What this portfolio represents\nThis ePortfolio demonstrates not only completed work, but also my progress in learning how to plan, build, refine, and present digital projects effectively."
   }
 ]
