@@ -18,39 +18,35 @@ about:
 
 ## Welcome
 
-Hi, I’m **Serena Emedeke**, and this ePortfolio showcases my academic work, technical projects, and professional development.
+Hi, I’m **Serena Emedeke** — a student developing skills in **Python, data analysis, Quarto, Git, and digital presentation**.
 
 ::: {.callout-note}
-This portfolio highlights my skills in **Quarto, Git, GitHub, Python, data analysis, and digital presentation**.
+This portfolio presents my **projects, technical development, reflection, and professional profile** in a structured and professional format.
 :::
 
-## What You’ll Find Here
+## Highlights
 
-::: {.callout-tip}
-### 📌 Professional Profile  
-Information about my background, skills, and experience.
+::: {.section-card}
+### 📊 Technical Projects
+Python-based work featuring data analysis, tables, and visualisations.
 :::
 
-::: {.callout-tip}
-### 📊 Data Projects  
-Python-based projects with data analysis and visualisations.
+::: {.section-card}
+### 🧠 Reflection and Growth
+Critical reflection on challenges, learning, and future goals.
 :::
 
-::: {.callout-tip}
-### 🧠 Reflection  
-Insights into my learning process and skill development.
+::: {.section-card}
+### 📄 Professional Profile
+My CV, background, strengths, and contact details.
 :::
 
-::: {.callout-tip}
-### 📄 CV & Contact  
-Access to my CV and ways to connect with me.
-:::
 ## Featured Projects
 
-### 📊 Student Performance Analysis  
-A Python project exploring the relationship between study time and grades using data visualisation.  
+### Student Performance Analysis
+A Python project exploring the relationship between study time and academic performance.  
 [View Project](projects/list/project-1.qmd)
 
-### 💰 Monthly Budget Analysis  
-A Python project analysing income and expenses with graphical insights.  
+### Monthly Budget Analysis
+A Python project analysing income and expenses using tabular and graphical output.  
 [View Project](projects/list/project-2.qmd)

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Hi, I’m Serena Emedeke, and this ePortfolio showcases my academic work, technical projects, and professional development.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio highlights my skills in Quarto, Git, GitHub, Python, data analysis, and digital presentation."
+    "text": "Hi, I’m Serena Emedeke — a student developing skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio presents my projects, technical development, reflection, and professional profile in a structured and professional format."
   },
   {
     "objectID": "about.html",
@@ -53,7 +53,7 @@
     "href": "index.html#welcome",
     "title": "Home",
     "section": "",
-    "text": "Hi, I’m Serena Emedeke, and this ePortfolio showcases my academic work, technical projects, and professional development.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio highlights my skills in Quarto, Git, GitHub, Python, data analysis, and digital presentation."
+    "text": "Hi, I’m Serena Emedeke — a student developing skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio presents my projects, technical development, reflection, and professional profile in a structured and professional format."
   },
   {
     "objectID": "projects/list/index.html",
@@ -172,7 +172,7 @@
     "href": "index.html#featured-projects",
     "title": "Home",
     "section": "Featured Projects",
-    "text": "Featured Projects\n\n📊 Student Performance Analysis\nA Python project exploring the relationship between study time and grades using data visualisation.\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses with graphical insights.\nView Project"
+    "text": "Featured Projects\n\nStudent Performance Analysis\nA Python project exploring the relationship between study time and academic performance.\nView Project\n\n\nMonthly Budget Analysis\nA Python project analysing income and expenses using tabular and graphical output.\nView Project"
   },
   {
     "objectID": "about.html#about-me",
@@ -250,5 +250,12 @@
     "title": "Contact",
     "section": "",
     "text": "If you would like to get in touch, please use the details below.\n\nEmail: samhineme128@gmail.com\nGitHub: serena-128\nLinkedIn: Your LinkedIn Profile"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Home",
+    "section": "Highlights",
+    "text": "Highlights\n\n📊 Technical Projects\nPython-based work featuring data analysis, tables, and visualisations.\n\n\n🧠 Reflection and Growth\nCritical reflection on challenges, learning, and future goals.\n\n\n📄 Professional Profile\nMy CV, background, strengths, and contact details."
   }
 ]
