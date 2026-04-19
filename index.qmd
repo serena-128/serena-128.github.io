@@ -43,10 +43,16 @@ My CV, background, strengths, and contact details.
 
 ## Featured Projects
 
-### Student Performance Analysis
-A Python project exploring the relationship between study time and academic performance.  
-[View Project](projects/list/project-1.qmd)
+::: {.section-card}
+### 📊 Student Performance Analysis
+A Python project exploring the relationship between study time and academic performance.
 
-### Monthly Budget Analysis
-A Python project analysing income and expenses using tabular and graphical output.  
+[View Project](projects/list/project-1.qmd)
+:::
+
+::: {.section-card}
+### 💰 Monthly Budget Analysis
+A Python project analysing income and expenses using tabular and graphical output.
+
 [View Project](projects/list/project-2.qmd)
+:::

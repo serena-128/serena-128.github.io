@@ -172,7 +172,7 @@
     "href": "index.html#featured-projects",
     "title": "Home",
     "section": "Featured Projects",
-    "text": "Featured Projects\n\nStudent Performance Analysis\nA Python project exploring the relationship between study time and academic performance.\nView Project\n\n\nMonthly Budget Analysis\nA Python project analysing income and expenses using tabular and graphical output.\nView Project"
+    "text": "Featured Projects\n\n📊 Student Performance Analysis\nA Python project exploring the relationship between study time and academic performance.\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses using tabular and graphical output.\nView Project"
   },
   {
     "objectID": "about.html#about-me",
@@ -313,5 +313,12 @@
     "title": "Reflection",
     "section": "Future Application",
     "text": "Future Application\nThe skills I developed in this project will be useful in both academic and professional contexts. In the future, I want to build more advanced data analysis projects and continue improving how I communicate technical work. I now feel more confident in using digital tools not just to complete assignments, but to create work that looks polished, purposeful, and professional."
+  },
+  {
+    "objectID": "index.html#featured-projects-1",
+    "href": "index.html#featured-projects-1",
+    "title": "Home",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n📊 Student Performance Analysis\nA Python project exploring the relationship between study time and academic performance.\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses using tabular and graphical output.\nView Project"
   }
 ]

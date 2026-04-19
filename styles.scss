@@ -21,6 +21,10 @@ main {
   margin: auto;
 }
 
+section {
+  margin-bottom: 3rem;
+}
+
 h1, h2, h3 {
   font-weight: 800;
   letter-spacing: 0.3px;
@@ -33,7 +37,18 @@ h1 {
 }
 
 h2 {
-  font-size: 2rem;
+  font-size: 2.2rem;
+  margin-bottom: 0.6rem;
+}
+
+h2::after {
+  content: "";
+  display: block;
+  width: 40px;
+  height: 3px;
+  background: #1f3c88;
+  margin: 8px auto 0;
+  border-radius: 2px;
 }
 
 p {
@@ -102,8 +117,29 @@ a:hover {
 .section-card {
   background: white;
   border: 1px solid #e5e7eb;
-  border-radius: 14px;
-  padding: 1rem 1.2rem;
-  margin: 1rem 0;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+  border-radius: 16px;
+  padding: 1.3rem 1.5rem;
+  margin: 1.3rem 0;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.10);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.section-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.14);
+}
+
+.section-card a {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 14px;
+  border-radius: 8px;
+  background-color: #1f3c88;
+  color: white !important;
+  font-weight: 600;
+}
+
+.section-card a:hover {
+  background-color: #3a6ea5;
+  text-decoration: none;
 }
