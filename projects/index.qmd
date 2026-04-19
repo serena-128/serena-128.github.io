@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-## My Projects
+
 
 This section showcases Python-based projects that demonstrate my ability to analyse data, interpret results, and communicate findings through code and visualisations.
 

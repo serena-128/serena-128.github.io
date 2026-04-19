@@ -2,14 +2,12 @@
 title: "About Me"
 ---
 
-## About Me
-
 I am a student developing practical skills in **data analysis, web technologies, and digital presentation**. Through this portfolio, I have applied tools such as **Python, Quarto, and GitHub** to create structured projects that demonstrate both technical ability and clear communication of results.
 
 ## Background
 
 ::: {.section-card}
-Building this portfolio has strengthened my confidence in using **Quarto, GitHub, and Python in a practical context**. I developed stronger organisational skills by structuring pages clearly and maintaining consistency across the site. 
+Building this portfolio has strengthened my confidence in using **Quarto, GitHub, and Python in a practical context**. I developed stronger organisational skills by structuring pages clearly and maintaining consistency across the site.
 
 This process also improved my ability to present academic work in a **professional and visually effective format**, ensuring that information is clear, accessible, and well-structured.
 :::
@@ -20,7 +18,7 @@ This process also improved my ability to present academic work in a **profession
 |------|---------------|-----------------|
 | Quarto | Built and published a structured portfolio website | Intermediate |
 | Git & GitHub | Managed commits, version control, and project progress | Intermediate |
-| Python | Created data analysis and visualisation projects | Intermediate |
+| Python | Developed data analysis and visualisation projects | Intermediate |
 | Web Design | Improved layout, styling, and readability | Developing |
 | Communication | Presented technical work clearly and professionally | Strong |
 
@@ -34,6 +32,6 @@ I demonstrated organisation by structuring my portfolio clearly and maintaining 
 
 ## Goals
 
-I aim to continue developing my **technical and analytical skills**, particularly in Python and data visualisation. 
+I aim to continue developing my **technical and analytical skills**, particularly in Python and data visualisation.
 
-In the future, I plan to build more complex data-driven projects and improve my ability to communicate insights clearly. These skills will support both my academic development and progression into a **data-focused career**.
+In the future, I plan to build more complex data-driven projects and further improve my ability to communicate insights clearly. These skills will support both my academic development and progression into a **data-focused career**.
