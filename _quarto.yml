@@ -26,6 +26,11 @@ website:
       - href: https://github.com/serena-128
         text: GitHub
         target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/serenae-1
+        target: _blank
+      - icon: envelope
+        href: mailto:samhineme128@gmail.com
 
   page-footer:
     left: "© 2026 Serena Emedeke"
