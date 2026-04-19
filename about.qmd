@@ -4,26 +4,30 @@ title: "About Me"
 
 ## About Me
 
-I am a motivated student with a growing interest in **data analysis, web technologies, and professional digital presentation**. This portfolio reflects the technical and creative skills I have developed through building a structured website and presenting projects in a clear and professional way.
+I am a motivated student with a growing interest in **data analysis, web technologies, and professional digital presentation**. Through this portfolio, I have developed both technical and organisational skills by creating a structured website and presenting project work clearly and professionally.
 
-::: {.callout-tip}
-My main strengths include **organisation, adaptability, problem-solving, and willingness to learn new tools**.
+## Background
+
+::: {.section-card}
+I enjoy learning new tools and applying them in practical ways. Building this portfolio has allowed me to improve my confidence in using Quarto, GitHub, Python, and web styling while also thinking more carefully about how academic work is presented.
 :::
 
 ## Skills
 
-| Skill | Description |
+| Skill | How I used it |
 |---|---|
-| Quarto | Building and publishing structured websites |
-| Git & GitHub | Managing files, commits, and version control |
-| Python | Data analysis and visualisation |
-| Web Design | Layout, styling, and presentation |
-| Communication | Explaining ideas clearly and professionally |
+| Quarto | Built and published a structured portfolio website |
+| Git & GitHub | Managed commits, changes, and project progress |
+| Python | Created data analysis and visualisation projects |
+| Web Design | Improved layout, styling, and readability |
+| Communication | Presented technical work in a clear professional way |
 
-## Academic and Professional Goals
+## Strengths
 
-My goal is to continue developing technical and analytical skills that will support both my academic progress and future career opportunities. I want to improve my confidence in presenting projects, solving technical problems, and using digital tools in a professional setting.
+::: {.callout-tip}
+My strengths include **organisation, adaptability, attention to detail, and willingness to learn through problem-solving**.
+:::
 
-## What this portfolio represents
+## Goals
 
-This ePortfolio demonstrates not only completed work, but also my progress in learning how to plan, build, refine, and present digital projects effectively.
+I want to continue developing my technical and analytical skills, especially in Python, data visualisation, and digital communication. These skills will support both my academic progress and future career opportunities.
