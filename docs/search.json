@@ -18,21 +18,21 @@
     "href": "reflection.html",
     "title": "Reflection",
     "section": "",
-    "text": "Developing this ePortfolio has been an important learning experience because it allowed me to combine technical, organisational, and reflective skills in one project."
+    "text": "Creating this ePortfolio has been one of the most valuable learning experiences in this module because it required me to combine technical ability, organisation, creativity, and critical self-reflection."
   },
   {
     "objectID": "reflection.html#reflection",
     "href": "reflection.html#reflection",
     "title": "Reflection",
     "section": "",
-    "text": "Developing this ePortfolio has been an important learning experience because it allowed me to combine technical, organisational, and reflective skills in one project."
+    "text": "Creating this ePortfolio has been one of the most valuable learning experiences in this module because it required me to combine technical ability, organisation, creativity, and critical self-reflection."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "If you would like to get in touch, please use the details below.\n\nEmail: samhineme128@gmail.com\nGitHub: serena-128\nLinkedIn: Your LinkedIn Profile"
+    "text": "If you would like to get in touch, please use the details below.\n\n\nEmail: samhineme128@gmail.com\n\nGitHub: serena-128\n\nLinkedIn: Your LinkedIn Profile"
   },
   {
     "objectID": "contact.html#contact-me",
@@ -46,7 +46,7 @@
     "href": "contact.html#references",
     "title": "Contact",
     "section": "References",
-    "text": "References\nReferences are available upon request.\n\n\n\n\n\n\nTip\n\n\n\nThank you for visiting my ePortfolio."
+    "text": "References\nReferences are available upon request.\n\n\n\n\n\n\nTip\n\n\n\nThank you for taking the time to view my portfolio."
   },
   {
     "objectID": "index.html#welcome",
@@ -249,7 +249,7 @@
     "href": "contact.html#contact",
     "title": "Contact",
     "section": "",
-    "text": "If you would like to get in touch, please use the details below.\n\nEmail: samhineme128@gmail.com\nGitHub: serena-128\nLinkedIn: Your LinkedIn Profile"
+    "text": "If you would like to get in touch, please use the details below.\n\n\nEmail: samhineme128@gmail.com\n\nGitHub: serena-128\n\nLinkedIn: Your LinkedIn Profile"
   },
   {
     "objectID": "index.html#highlights",
@@ -278,5 +278,40 @@
     "title": "About Me",
     "section": "Goals",
     "text": "Goals\nI want to continue developing my technical and analytical skills, especially in Python, data visualisation, and digital communication. These skills will support both my academic progress and future career opportunities."
+  },
+  {
+    "objectID": "reflection.html#what-i-learned",
+    "href": "reflection.html#what-i-learned",
+    "title": "Reflection",
+    "section": "What I Learned",
+    "text": "What I Learned\nThrough this project, I developed practical skills in Quarto, Git, GitHub, Python, and web design. I learned how to structure a professional website, organise files correctly, manage changes through version control, and present work in a way that is both clear and visually engaging."
+  },
+  {
+    "objectID": "reflection.html#challenges-i-faced",
+    "href": "reflection.html#challenges-i-faced",
+    "title": "Reflection",
+    "section": "Challenges I Faced",
+    "text": "Challenges I Faced\nOne of the biggest challenges was understanding how all the technical parts of the portfolio connected together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout. I also faced difficulties with broken links, page structure issues, and Python package setup when trying to run code inside project pages."
+  },
+  {
+    "objectID": "reflection.html#how-i-solved-problems",
+    "href": "reflection.html#how-i-solved-problems",
+    "title": "Reflection",
+    "section": "How I Solved Problems",
+    "text": "How I Solved Problems\nInstead of giving up when errors appeared, I worked through them step by step. I tested changes, fixed file structure problems, improved my Quarto configuration, and installed the packages needed for Python execution. This process taught me that technical work often depends on patience, troubleshooting, and attention to detail.\n\n\n\n\n\n\nImportant\n\n\n\nA key lesson from this project is that professional digital work is not only about writing content — it also involves testing, debugging, refining, and presenting work effectively."
+  },
+  {
+    "objectID": "reflection.html#skills-development",
+    "href": "reflection.html#skills-development",
+    "title": "Reflection",
+    "section": "Skills Development",
+    "text": "Skills Development\nThis project strengthened my confidence in: - building and styling a website - managing a project using Git and GitHub - using Python for analysis and visualisation - presenting academic work in a professional format"
+  },
+  {
+    "objectID": "reflection.html#future-application",
+    "href": "reflection.html#future-application",
+    "title": "Reflection",
+    "section": "Future Application",
+    "text": "Future Application\nThe skills I developed in this project will be useful in both academic and professional contexts. In the future, I want to build more advanced data analysis projects and continue improving how I communicate technical work. I now feel more confident in using digital tools not just to complete assignments, but to create work that looks polished, purposeful, and professional."
   }
 ]

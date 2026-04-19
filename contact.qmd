@@ -6,14 +6,16 @@ title: "Contact"
 
 If you would like to get in touch, please use the details below.
 
-- **Email:** samhineme128@gmail.com
-- **GitHub:** [serena-128](https://github.com/serena-128)
+::: {.section-card}
+- **Email:** samhineme128@gmail.com  
+- **GitHub:** [serena-128](https://github.com/serena-128)  
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/serenae-1)
+:::
 
 ## References
 
 References are available upon request.
 
 ::: {.callout-tip}
-Thank you for visiting my ePortfolio.
+Thank you for taking the time to view my portfolio.
 :::
