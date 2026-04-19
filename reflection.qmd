@@ -4,26 +4,32 @@ title: "Reflection"
 
 ## Reflection
 
-Developing this ePortfolio has been an important learning experience because it allowed me to combine technical, organisational, and reflective skills in one project.
+Creating this ePortfolio has been one of the most valuable learning experiences in this module because it required me to combine technical ability, organisation, creativity, and critical self-reflection.
 
-## Skills Developed
+## What I Learned
 
-Through this work, I strengthened my understanding of **Quarto, Git, GitHub Pages, Python, and web design**. I learned how to structure a website properly, manage files in a logical way, and present work in a clearer and more professional format.
+Through this project, I developed practical skills in **Quarto, Git, GitHub, Python, and web design**. I learned how to structure a professional website, organise files correctly, manage changes through version control, and present work in a way that is both clear and visually engaging.
 
-## Challenges and Problem-Solving
+## Challenges I Faced
 
-One of the main challenges I faced was understanding how the different parts of the project fit together, especially when working with page structure, navigation, rendering, and Python execution inside Quarto. I also experienced issues with missing files, formatting errors, and Python package setup.
+One of the biggest challenges was understanding how all the technical parts of the portfolio connected together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout. I also faced difficulties with broken links, page structure issues, and Python package setup when trying to run code inside project pages.
 
-Working through these problems taught me the importance of patience, testing, and careful troubleshooting. Rather than giving up when errors appeared, I learned to fix them step by step and improve the quality of my work.
+## How I Solved Problems
 
-::: {.callout-note}
-A key lesson from this project was that professional digital work is not only about writing content, but also about **organisation, presentation, debugging, and revision**.
+Instead of giving up when errors appeared, I worked through them step by step. I tested changes, fixed file structure problems, improved my Quarto configuration, and installed the packages needed for Python execution. This process taught me that technical work often depends on patience, troubleshooting, and attention to detail.
+
+::: {.callout-important}
+A key lesson from this project is that professional digital work is not only about writing content — it also involves **testing, debugging, refining, and presenting work effectively**.
 :::
 
-## What I Learned About Myself
+## Skills Development
 
-This project showed me that I am capable of learning technical tools and applying them in a practical way. It also helped me build confidence in presenting my work more professionally and thinking more critically about how projects are communicated to others.
+This project strengthened my confidence in:
+- building and styling a website
+- managing a project using Git and GitHub
+- using Python for analysis and visualisation
+- presenting academic work in a professional format
 
-## Future Goals
+## Future Application
 
-In the future, I would like to continue improving my skills in Python, data visualisation, and digital presentation. I also want to build more advanced projects that demonstrate stronger analytical ability and creative problem-solving. These skills will be valuable in both academic work and future career opportunities.
+The skills I developed in this project will be useful in both academic and professional contexts. In the future, I want to build more advanced data analysis projects and continue improving how I communicate technical work. I now feel more confident in using digital tools not just to complete assignments, but to create work that looks polished, purposeful, and professional.
