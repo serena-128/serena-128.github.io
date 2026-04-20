@@ -30,3 +30,7 @@ budget = pd.DataFrame({
 })
 
 budget
+
+plt.pie(budget["Amount"], labels=budget["Category"], autopct='%1.1f%%')
+plt.title("Monthly Budget Distribution")
+plt.show()

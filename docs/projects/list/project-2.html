@@ -251,6 +251,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <p>import pandas as pd import matplotlib.pyplot as plt</p>
 <p>budget = pd.DataFrame({ “Category”: [“Rent”, “Food”, “Transport”, “Entertainment”, “Savings”], “Amount”: [800, 250, 100, 120, 300] })</p>
 <p>budget</p>
+<p>plt.pie(budget[“Amount”], labels=budget[“Category”], autopct=‘%1.1f%%’) plt.title(“Monthly Budget Distribution”) plt.show()</p>
 
 
 <!-- -->
@@ -741,6 +742,10 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>})</span>
 <span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>budget</span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a>plt.pie(budget[<span class="st">"Amount"</span>], labels<span class="op">=</span>budget[<span class="st">"Category"</span>], autopct<span class="op">=</span><span class="st">'</span><span class="sc">%1.1f%%</span><span class="st">'</span>)</span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a>plt.title(<span class="st">"Monthly Budget Distribution"</span>)</span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>plt.show()</span>
 </code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
 </div></div></div></div></div>
 </div> <!-- /content -->

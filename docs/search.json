@@ -88,7 +88,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "This section showcases Python-based projects that demonstrate my ability to analyse data, interpret results, and communicate findings through code and visualisations.\n\n\n\n\n\n\nImportant\n\n\n\nEach project includes active executable Python code, structured explanation, and a visual output.\n\n\n\nStudent Performance Analysis\nA Python project exploring the relationship between study time and grades.\nView Project →\n\n\n\nMonthly Budget Analysis\nA Python project analysing monthly income and expenses through tabular and graphical output.\nView Project →"
+    "text": "This section showcases Python-based projects that demonstrate my ability to analyse data, interpret results, and communicate findings through code and visualisations."
   },
   {
     "objectID": "projects/index.html#projects",
@@ -129,8 +129,8 @@
     "objectID": "projects/index.html#my-projects",
     "href": "projects/index.html#my-projects",
     "title": "Projects",
-    "section": "",
-    "text": "This section showcases Python-based projects that demonstrate my ability to analyse data, interpret results, and communicate findings through code and visualisations.\n\n\n\n\n\n\nImportant\n\n\n\nEach project includes active executable Python code, structured explanation, and a visual output.\n\n\n\n\nA Python project exploring the relationship between study time and grades.\nView Project →\n\n\n\n\nA Python project analysing monthly income and expenses through tabular and graphical output.\nView Project →"
+    "section": "My Projects",
+    "text": "My Projects\n\n📊 Student Performance Analysis\nA Python project analysing the relationship between study time and academic performance.\nKey Features: - Data organisation using Pandas\n- Trend analysis and interpretation\n- Visualisation using Matplotlib\nTools: Python, Pandas, Matplotlib\nView Project →\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses to identify spending patterns and support financial decision-making.\nKey Features: - Structured financial data analysis\n- Visualisation of spending distribution\n- Interpretation of budget allocation\nTools: Python, Pandas, Matplotlib\nView Project →"
   },
   {
     "objectID": "projects/list/project-2.html",
@@ -151,7 +151,7 @@
     "href": "projects/list/project-2.html#python-code",
     "title": "Monthly Budget Analysis",
     "section": "Python Code",
-    "text": "Python Code\nimport pandas as pd import matplotlib.pyplot as plt\nbudget = pd.DataFrame({ “Category”: [“Rent”, “Food”, “Transport”, “Entertainment”, “Savings”], “Amount”: [800, 250, 100, 120, 300] })\nbudget"
+    "text": "Python Code\nimport pandas as pd import matplotlib.pyplot as plt\nbudget = pd.DataFrame({ “Category”: [“Rent”, “Food”, “Transport”, “Entertainment”, “Savings”], “Amount”: [800, 250, 100, 120, 300] })\nbudget\nplt.pie(budget[“Amount”], labels=budget[“Category”], autopct=‘%1.1f%%’) plt.title(“Monthly Budget Distribution”) plt.show()"
   },
   {
     "objectID": "projects/list/project-2.html#reflection",

@@ -2,24 +2,40 @@
 title: "Projects"
 ---
 
-
-
 This section showcases Python-based projects that demonstrate my ability to analyse data, interpret results, and communicate findings through code and visualisations.
 
 ::: {.callout-important}
-Each project includes **active executable Python code**, structured explanation, and a visual output.
+Each project includes **executable Python code, structured analysis, and clear visual outputs**, reflecting practical data analysis skills.
 :::
 
-### Student Performance Analysis
+## My Projects
 
-A Python project exploring the relationship between study time and grades.
+::: {.section-card}
+### 📊 Student Performance Analysis
 
-[View Project →](list/project-1.qmd)
+A Python project analysing the relationship between study time and academic performance.
 
----
+**Key Features:**
+- Data organisation using Pandas  
+- Trend analysis and interpretation  
+- Visualisation using Matplotlib  
 
-### Monthly Budget Analysis
+**Tools:** Python, Pandas, Matplotlib  
 
-A Python project analysing monthly income and expenses through tabular and graphical output.
+[View Project →](list/project-1.html)
+:::
 
-[View Project →](list/project-2.qmd)
+::: {.section-card}
+### 💰 Monthly Budget Analysis
+
+A Python project analysing income and expenses to identify spending patterns and support financial decision-making.
+
+**Key Features:**
+- Structured financial data analysis  
+- Visualisation of spending distribution  
+- Interpretation of budget allocation  
+
+**Tools:** Python, Pandas, Matplotlib  
+
+[View Project →](list/project-2.html)
+:::
