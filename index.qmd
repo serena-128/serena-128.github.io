@@ -10,49 +10,60 @@ about:
       href: https://github.com/serena-128
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/YOUR-LINKEDIN
+      href: https://www.linkedin.com/in/serena-e-606aa122a/
     - icon: envelope
       text: Email
-      href: mailto:YOUR-EMAIL@example.com
+      href: mailto:serena.emedeke2@mail.dcu.ie
 ---
 
 ## Welcome
 
-Hi, I’m **Serena Emedeke** — a student developing skills in **Python, data analysis, Quarto, Git, and digital presentation**.
+Hi, I’m **Serena Emedeke** — a student developing practical skills in **Python, data analysis, Quarto, Git, and digital presentation**.
 
 ::: {.callout-note}
-This portfolio presents my **projects, technical development, reflection, and professional profile** in a structured and professional format.
+This portfolio demonstrates my ability to **analyse data, develop structured projects, and present technical work in a clear and professional format**.
 :::
+
+## What I Bring
+
+- Strong foundation in **Python and data analysis**  
+- Ability to communicate technical results clearly  
+- Experience using **Git and version control**  
+- A structured and professional approach to project work  
 
 ## Highlights
 
 ::: {.section-card}
 ### 📊 Technical Projects
-Python-based work featuring data analysis, tables, and visualisations.
+Python-based projects demonstrating data analysis, structured datasets, and visualisation techniques.
 :::
 
 ::: {.section-card}
 ### 🧠 Reflection and Growth
-Critical reflection on challenges, learning, and future goals.
+Critical reflection on challenges faced, skills developed, and future learning goals.
 :::
 
 ::: {.section-card}
 ### 📄 Professional Profile
-My CV, background, strengths, and contact details.
+A complete overview of my background, skills, CV, and contact details.
 :::
 
 ## Featured Projects
 
 ::: {.section-card}
 ### 📊 Student Performance Analysis
-A Python project exploring the relationship between study time and academic performance.
+A Python project analysing the relationship between study time and academic performance.
 
-[View Project](projects/list/project-1.qmd)
+**Tools:** Python, Pandas, Matplotlib  
+
+[View Project](projects/list/project-1.html)
 :::
 
 ::: {.section-card}
 ### 💰 Monthly Budget Analysis
-A Python project analysing income and expenses using tabular and graphical output.
+A Python project analysing income and expenses to identify spending patterns and support financial decision-making.
 
-[View Project](projects/list/project-2.qmd)
+**Tools:** Python, Pandas, Matplotlib  
+
+[View Project](projects/list/project-2.html)
 :::
