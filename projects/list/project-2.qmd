@@ -1,14 +1,22 @@
 ---
 title: "Monthly Budget Analysis"
-description: "A simple Python project analysing monthly income and expenses."
+description: "A Python project analysing monthly income and expenses."
 author: "Serena Emedeke"
 date: 2026-04-16
 categories: [Python, Data Analysis, Budgeting]
+format:
+  html:
+    code-fold: true
+    code-tools: true
 ---
 
 ## Overview
 
-This project explores a simple monthly budget using Python.
+This project analyses a simple monthly budget using Python. It demonstrates how financial data can be organised and visualised to better understand spending patterns.
+
+## Objective
+
+The objective of this project is to examine how expenses are distributed across different categories and identify areas of high spending.
 
 ## Python Code
 
@@ -22,17 +30,3 @@ budget = pd.DataFrame({
 })
 
 budget
-```
-
-```{python}
-plt.bar(budget["Category"], budget["Amount"])
-plt.xlabel("Category")
-plt.ylabel("Amount (€)")
-plt.title("Monthly Budget Breakdown")
-plt.xticks(rotation=30)
-plt.show()
-```
-
-## Reflection
-
-This project helped me practise organising data and creating visualisations using Python.

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Hi, I’m Serena Emedeke — a student developing skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio presents my projects, technical development, reflection, and professional profile in a structured and professional format."
+    "text": "Hi, I’m Serena Emedeke — a student developing practical skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio demonstrates my ability to analyse data, develop structured projects, and present technical work in a clear and professional format."
   },
   {
     "objectID": "about.html",
@@ -53,7 +53,7 @@
     "href": "index.html#welcome",
     "title": "Home",
     "section": "",
-    "text": "Hi, I’m Serena Emedeke — a student developing skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio presents my projects, technical development, reflection, and professional profile in a structured and professional format."
+    "text": "Hi, I’m Serena Emedeke — a student developing practical skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio demonstrates my ability to analyse data, develop structured projects, and present technical work in a clear and professional format."
   },
   {
     "objectID": "projects/list/index.html",
@@ -137,21 +137,21 @@
     "href": "projects/list/project-2.html",
     "title": "Monthly Budget Analysis",
     "section": "",
-    "text": "This project explores a simple monthly budget using Python."
+    "text": "This project analyses a simple monthly budget using Python. It demonstrates how financial data can be organised and visualised to better understand spending patterns."
   },
   {
     "objectID": "projects/list/project-2.html#overview",
     "href": "projects/list/project-2.html#overview",
     "title": "Monthly Budget Analysis",
     "section": "",
-    "text": "This project explores a simple monthly budget using Python."
+    "text": "This project analyses a simple monthly budget using Python. It demonstrates how financial data can be organised and visualised to better understand spending patterns."
   },
   {
     "objectID": "projects/list/project-2.html#python-code",
     "href": "projects/list/project-2.html#python-code",
     "title": "Monthly Budget Analysis",
     "section": "Python Code",
-    "text": "Python Code\n\n\nCode\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\nbudget = pd.DataFrame({\n    \"Category\": [\"Rent\", \"Food\", \"Transport\", \"Entertainment\", \"Savings\"],\n    \"Amount\": [800, 250, 100, 120, 300]\n})\n\nbudget\n\n\n\n\n\n\n\n\n\nCategory\nAmount\n\n\n\n\n0\nRent\n800\n\n\n1\nFood\n250\n\n\n2\nTransport\n100\n\n\n3\nEntertainment\n120\n\n\n4\nSavings\n300\n\n\n\n\n\n\n\n\n\nCode\nplt.bar(budget[\"Category\"], budget[\"Amount\"])\nplt.xlabel(\"Category\")\nplt.ylabel(\"Amount (€)\")\nplt.title(\"Monthly Budget Breakdown\")\nplt.xticks(rotation=30)\nplt.show()"
+    "text": "Python Code\nimport pandas as pd import matplotlib.pyplot as plt\nbudget = pd.DataFrame({ “Category”: [“Rent”, “Food”, “Transport”, “Entertainment”, “Savings”], “Amount”: [800, 250, 100, 120, 300] })\nbudget"
   },
   {
     "objectID": "projects/list/project-2.html#reflection",
@@ -172,7 +172,7 @@
     "href": "index.html#featured-projects",
     "title": "Home",
     "section": "Featured Projects",
-    "text": "Featured Projects\n\n📊 Student Performance Analysis\nA Python project exploring the relationship between study time and academic performance.\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses using tabular and graphical output.\nView Project"
+    "text": "Featured Projects\n\n📊 Student Performance Analysis\nA Python project analysing the relationship between study time and academic performance.\nTools: Python, Pandas, Matplotlib\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses to identify spending patterns and support financial decision-making.\nTools: Python, Pandas, Matplotlib\nView Project"
   },
   {
     "objectID": "about.html#about-me",
@@ -256,7 +256,7 @@
     "href": "index.html#highlights",
     "title": "Home",
     "section": "Highlights",
-    "text": "Highlights\n\n📊 Technical Projects\nPython-based work featuring data analysis, tables, and visualisations.\n\n\n🧠 Reflection and Growth\nCritical reflection on challenges, learning, and future goals.\n\n\n📄 Professional Profile\nMy CV, background, strengths, and contact details."
+    "text": "Highlights\n\n📊 Technical Projects\nPython-based projects demonstrating data analysis, structured datasets, and visualisation techniques.\n\n\n🧠 Reflection and Growth\nCritical reflection on challenges faced, skills developed, and future learning goals.\n\n\n📄 Professional Profile\nA complete overview of my background, skills, CV, and contact details."
   },
   {
     "objectID": "about.html#background",
@@ -320,5 +320,19 @@
     "title": "Home",
     "section": "Featured Projects",
     "text": "Featured Projects\n\n📊 Student Performance Analysis\nA Python project exploring the relationship between study time and academic performance.\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses using tabular and graphical output.\nView Project"
+  },
+  {
+    "objectID": "projects/list/project-2.html#objective",
+    "href": "projects/list/project-2.html#objective",
+    "title": "Monthly Budget Analysis",
+    "section": "Objective",
+    "text": "Objective\nThe objective of this project is to examine how expenses are distributed across different categories and identify areas of high spending."
+  },
+  {
+    "objectID": "index.html#what-i-bring",
+    "href": "index.html#what-i-bring",
+    "title": "Home",
+    "section": "What I Bring",
+    "text": "What I Bring\n\nStrong foundation in Python and data analysis\n\nAbility to communicate technical results clearly\n\nExperience using Git and version control\n\nA structured and professional approach to project work"
   }
 ]
