@@ -334,5 +334,12 @@
     "title": "Home",
     "section": "What I Bring",
     "text": "What I Bring\n\nStrong foundation in Python and data analysis\n\nAbility to communicate technical results clearly\n\nExperience using Git and version control\n\nA structured and professional approach to project work"
+  },
+  {
+    "objectID": "reflection.html#challenge-example",
+    "href": "reflection.html#challenge-example",
+    "title": "Reflection",
+    "section": "Challenge Example",
+    "text": "Challenge Example\nOne challenge I faced was configuring Python within Quarto, where missing dependencies caused errors during rendering. I resolved this by installing the required packages and ensuring the environment was correctly set up.\nThis improved my troubleshooting skills and understanding of development environments."
   }
 ]

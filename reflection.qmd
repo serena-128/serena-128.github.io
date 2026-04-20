@@ -31,3 +31,9 @@ This project strengthened my confidence in:
 ## Future Application
 
 The skills I developed in this project will be useful in both academic and professional contexts. In the future, I want to build more advanced data analysis projects and continue improving how I communicate technical work. I now feel more confident in using digital tools not just to complete assignments, but to create work that looks polished, purposeful, and professional.
+
+## Challenge Example
+
+One challenge I faced was configuring Python within Quarto, where missing dependencies caused errors during rendering. I resolved this by installing the required packages and ensuring the environment was correctly set up.
+
+This improved my troubleshooting skills and understanding of development environments.
