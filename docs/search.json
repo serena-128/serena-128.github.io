@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Hi, I’m Serena Emedeke — a student developing practical skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio demonstrates my ability to analyse data, develop structured projects, and present technical work in a clear and professional format."
+    "text": "Hi, I’m Serena Emedeke — a student developing practical skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio demonstrates my ability to analyse data, build structured digital projects, solve technical problems, and present work in a clear and professional format."
   },
   {
     "objectID": "about.html",
@@ -172,7 +172,7 @@
     "href": "index.html#featured-projects",
     "title": "Home",
     "section": "Featured Projects",
-    "text": "Featured Projects\n\n📊 Student Performance Analysis\nA Python project analysing the relationship between study time and academic performance.\nTools: Python, Pandas, Matplotlib\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses to identify spending patterns and support financial decision-making.\nTools: Python, Pandas, Matplotlib\nView Project"
+    "text": "Featured Projects\nEach project demonstrates a structured approach to data analysis, including objectives, implementation, interpretation, and reflection.\n\n📊 Student Performance Analysis\nA Python project analysing the relationship between study time and academic performance, using data visualisation to identify trends and support conclusions.\nTools: Python, Pandas, Matplotlib\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses to identify spending patterns and support financial decision-making through data visualisation.\nTools: Python, Pandas, Matplotlib\nView Project"
   },
   {
     "objectID": "about.html#about-me",
@@ -256,7 +256,7 @@
     "href": "index.html#highlights",
     "title": "Home",
     "section": "Highlights",
-    "text": "Highlights\n\n📊 Technical Projects\nPython-based projects demonstrating data analysis, structured datasets, and visualisation techniques.\n\n\n🧠 Reflection and Growth\nCritical reflection on challenges faced, skills developed, and future learning goals.\n\n\n📄 Professional Profile\nA complete overview of my background, skills, CV, and contact details."
+    "text": "Highlights\n\n📊 Data Analysis Projects\nPractical Python projects demonstrating data organisation, interpretation, and visualisation.\n\n\n🧠 Problem Solving and Reflection\nEvidence of critical thinking, troubleshooting, and continuous improvement through reflective practice.\n\n\n📄 Professional Portfolio\nA polished overview of my background, skills, CV, and contact information."
   },
   {
     "objectID": "about.html#background",
@@ -333,7 +333,7 @@
     "href": "index.html#what-i-bring",
     "title": "Home",
     "section": "What I Bring",
-    "text": "What I Bring\n\nStrong foundation in Python and data analysis\n\nAbility to communicate technical results clearly\n\nExperience using Git and version control\n\nA structured and professional approach to project work"
+    "text": "What I Bring\n\nStrong foundation in Python and data analysis\nAbility to communicate technical results clearly\nExperience using Git and version control\nA structured and professional approach to project work"
   },
   {
     "objectID": "reflection.html#challenge-example",
@@ -341,5 +341,12 @@
     "title": "Reflection",
     "section": "Challenge Example",
     "text": "Challenge Example\nOne challenge I faced was configuring Python within Quarto, where missing dependencies caused errors during rendering. I resolved this by installing the required packages and ensuring the environment was correctly set up.\nThis improved my troubleshooting skills and understanding of development environments."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-portfolio",
+    "href": "index.html#welcome-to-my-portfolio",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Serena Emedeke — a student developing practical skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio demonstrates my ability to analyse data, build structured digital projects, solve technical problems, and present work in a clear and professional format."
   }
 ]
