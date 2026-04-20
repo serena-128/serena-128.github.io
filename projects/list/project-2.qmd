@@ -12,7 +12,7 @@ format:
 
 ## Overview
 
-This project analyses a simple monthly budget using Python. It demonstrates how financial data can be organised and visualised to better understand spending patterns.
+This project analyses a simple monthly budget using Python. It demonstrates how financial data can be organised and visualised to better understand spending patterns and support decision-making.
 
 ## Objective
 
