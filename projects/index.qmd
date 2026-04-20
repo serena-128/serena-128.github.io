@@ -2,10 +2,10 @@
 title: "Projects"
 ---
 
-This section showcases Python-based projects that demonstrate my ability to analyse data, interpret results, and communicate findings through code and visualisations.
+This section presents a selection of Python-based projects that demonstrate my ability to **analyse data, interpret results, and communicate insights effectively through code and visualisations**.
 
 ::: {.callout-important}
-Each project includes **executable Python code, structured analysis, and clear visual outputs**, reflecting practical data analysis skills.
+Each project follows a structured approach, including **objectives, implementation, interpretation, and reflection**, reflecting practical data analysis and problem-solving skills.
 :::
 
 ## My Projects
@@ -13,7 +13,11 @@ Each project includes **executable Python code, structured analysis, and clear v
 ::: {.section-card}
 ### 📊 Student Performance Analysis
 
-A Python project analysing the relationship between study time and academic performance.
+**Objective:**  
+To analyse the relationship between study time and academic performance.
+
+**Overview:**  
+This project uses Python to organise and analyse data, applying visualisation techniques to identify trends and support conclusions.
 
 **Key Features:**
 - Data organisation using Pandas  
@@ -28,7 +32,11 @@ A Python project analysing the relationship between study time and academic perf
 ::: {.section-card}
 ### 💰 Monthly Budget Analysis
 
-A Python project analysing income and expenses to identify spending patterns and support financial decision-making.
+**Objective:**  
+To analyse how monthly expenses are distributed and identify key spending patterns.
+
+**Overview:**  
+This project applies data analysis techniques to financial data, using visualisation to present how income is allocated across categories.
 
 **Key Features:**
 - Structured financial data analysis  
