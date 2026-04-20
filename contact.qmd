@@ -2,14 +2,14 @@
 title: "Contact"
 ---
 
-## Contact
+## Get in Touch
 
 If you would like to get in touch, please use the details below.
 
 ::: {.section-card}
-- **Email:** samhineme128@gmail.com  
+- **Email:** serena.emedeke2@mail.dcu.ie  
 - **GitHub:** [serena-128](https://github.com/serena-128)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/serenae-1)
+- **LinkedIn:** [Serena Emedeke](https://www.linkedin.com/in/serena-e-606aa122a/)
 :::
 
 ## References
@@ -17,5 +17,5 @@ If you would like to get in touch, please use the details below.
 References are available upon request.
 
 ::: {.callout-tip}
-Thank you for taking the time to view my portfolio.
+Thank you for taking the time to view my portfolio. I welcome any feedback or opportunities to collaborate.
 :::
