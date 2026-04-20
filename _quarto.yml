@@ -23,14 +23,14 @@ website:
       - href: cv/Serena_Emedeke_CV.pdf
         text: CV
         target: _blank
-      - href: https://github.com/serena-128
-        text: GitHub
+      - icon: github
+        href: https://github.com/serena-128
         target: _blank
       - icon: linkedin
-        href: https://www.linkedin.com/in/serenae-1
+        href: https://www.linkedin.com/in/serena-e-606aa122a/
         target: _blank
       - icon: envelope
-        href: mailto:samhineme128@gmail.com
+        href: mailto:serena.emedeke2@mail.dcu.ie
 
   page-footer:
     left: "© 2026 Serena Emedeke"
@@ -44,3 +44,4 @@ format:
     toc: true
     code-fold: true
     code-tools: true
+    smooth-scroll: true
