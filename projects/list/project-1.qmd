@@ -45,7 +45,9 @@ plt.show()
 
 ## Interpretation
 
-The chart shows a clear positive relationship between study hours and performance. As study time increases, scores also increase.
+The results show a clear relationship between the variables. As study time increases, performance improves, indicating a positive trend.
+
+This demonstrates how data analysis can be used to identify patterns and support conclusions.
 
 ## Reflection
 
