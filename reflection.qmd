@@ -2,19 +2,23 @@
 title: "Reflection"
 ---
 
-Creating this ePortfolio has been one of the most valuable learning experiences in this module because it required me to combine technical ability, organisation, creativity, and critical self-reflection.
+Creating this ePortfolio has been one of the most valuable learning experiences in this module, as it required me to combine technical skills, organisation, creativity, and critical self-reflection.
 
 ## What I Learned
 
-Through this project, I developed practical skills in **Quarto, Git, GitHub, Python, and web design**. I learned how to structure a professional website, organise files correctly, manage changes through version control, and present work in a way that is both clear and visually engaging.
+Through this project, I developed practical skills in **Quarto, Git, GitHub, Python, and web design**. I learned how to structure a professional website, organise files effectively, manage changes using version control, and present work in a clear and visually engaging way.
 
 ## Challenges I Faced
 
-One of the biggest challenges was understanding how all the technical parts of the portfolio connected together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout. I also faced difficulties with broken links, page structure issues, and Python package setup when trying to run code inside project pages.
+One of the main challenges was understanding how all the technical components of the portfolio worked together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout.
+
+I also encountered issues with broken links, page structure, and Python package setup when running code within project pages.
 
 ## How I Solved Problems
 
-Instead of giving up when errors appeared, I worked through them step by step. I tested changes, fixed file structure problems, improved my Quarto configuration, and installed the packages needed for Python execution. This process taught me that technical work often depends on patience, troubleshooting, and attention to detail.
+I approached these challenges by working through them step by step. I tested changes, corrected file paths, improved my Quarto configuration, and installed the required Python packages.
+
+This process showed me that technical work often involves **debugging, testing, and refining solutions**, rather than expecting everything to work immediately.
 
 ::: {.callout-important}
 A key lesson from this project is that professional digital work is not only about writing content — it also involves **testing, debugging, refining, and presenting work effectively**.
@@ -23,17 +27,19 @@ A key lesson from this project is that professional digital work is not only abo
 ## Skills Development
 
 This project strengthened my confidence in:
-- building and styling a website
-- managing a project using Git and GitHub
-- using Python for analysis and visualisation
-- presenting academic work in a professional format
-
-## Future Application
-
-The skills I developed in this project will be useful in both academic and professional contexts. In the future, I want to build more advanced data analysis projects and continue improving how I communicate technical work. I now feel more confident in using digital tools not just to complete assignments, but to create work that looks polished, purposeful, and professional.
+- building and styling a website using Quarto  
+- managing a project using Git and GitHub  
+- using Python for data analysis and visualisation  
+- presenting academic work in a clear and professional format  
 
 ## Challenge Example
 
-One challenge I faced was configuring Python within Quarto, where missing dependencies caused errors during rendering. I resolved this by installing the required packages and ensuring the environment was correctly set up.
+One specific challenge I faced was configuring Python within Quarto. Missing dependencies caused errors during rendering, which prevented my project pages from working correctly.
 
-This improved my troubleshooting skills and understanding of development environments.
+I resolved this by installing the required packages and ensuring the Python environment was correctly configured. This improved my troubleshooting ability and gave me a better understanding of how development environments function.
+
+## Future Application
+
+The skills developed in this project will be valuable in both academic and professional contexts. In the future, I aim to build more advanced data analysis projects and continue improving how I communicate technical work.
+
+This experience has increased my confidence in using digital tools not only to complete assignments, but also to create work that is **polished, purposeful, and professionally presented**.
