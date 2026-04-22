@@ -18,7 +18,7 @@
     "href": "reflection.html#challenges-i-faced",
     "title": "Reflection",
     "section": "Challenges I Faced",
-    "text": "Challenges I Faced\nOne of the main challenges was understanding how all the technical components of the portfolio worked together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout.\nI also encountered issues with broken links, page structure, and Python package setup when running code within project pages."
+    "text": "Challenges I Faced\nOne of the main challenges was understanding how all the technical components of the portfolio worked together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout.\nI also encountered issues with broken links, page structure, Python package setup, and rendering project pages correctly in Quarto."
   },
   {
     "objectID": "reflection.html#how-i-solved-problems",
@@ -222,5 +222,12 @@
     "title": "Monthly Budget Analysis",
     "section": "Python Code",
     "text": "Python Code\n\n\nCode\nimport pandas as pd\nimport plotly.express as px\n\nbudget = pd.DataFrame({\n    \"Category\": [\"Rent\", \"Food\", \"Transport\", \"Entertainment\", \"Savings\"],\n    \"Amount\": [800, 250, 100, 120, 300]\n})\n\nbudget\n\nfig = px.pie(\n    budget,\n    values=\"Amount\",\n    names=\"Category\",\n    title=\"Monthly Budget Distribution\",\n    hole=0.3\n)\n\nfig\n\n\n                            \n                                            \n\n\nimage: ../../images/budget-project.png"
+  },
+  {
+    "objectID": "reflection.html#development-process",
+    "href": "reflection.html#development-process",
+    "title": "Reflection",
+    "section": "Development Process",
+    "text": "Development Process\nThe diagram below illustrates the structured workflow followed in developing this ePortfolio.\n\n\n\n\n\n%%{init: {'flowchart': {'useMaxWidth': true}}}%%\ngraph LR\nA[Initial Planning] --&gt; B[Building Pages]\nB --&gt; C[Adding Projects]\nC --&gt; D[Testing & Debugging]\nD --&gt; E[Styling]\nE --&gt; F[Final Reflection]"
   }
 ]

@@ -109,6 +109,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   }
 }</script>
 <style>html{ scroll-behavior: smooth; }</style>
+<script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+<script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+<link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 
 
 </head>
@@ -360,6 +363,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
   <li><a href="#skills-development" id="toc-skills-development" class="nav-link" data-scroll-target="#skills-development">Skills Development</a></li>
   <li><a href="#challenge-example" id="toc-challenge-example" class="nav-link" data-scroll-target="#challenge-example">Challenge Example</a></li>
   <li><a href="#future-application" id="toc-future-application" class="nav-link" data-scroll-target="#future-application">Future Application</a></li>
+  <li><a href="#development-process" id="toc-development-process" class="nav-link" data-scroll-target="#development-process">Development Process</a></li>
   </ul>
 </nav>
     </div>
@@ -394,7 +398,7 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <section id="challenges-i-faced" class="level2">
 <h2 class="anchored" data-anchor-id="challenges-i-faced">Challenges I Faced</h2>
 <p>One of the main challenges was understanding how all the technical components of the portfolio worked together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout.</p>
-<p>I also encountered issues with broken links, page structure, and Python package setup when running code within project pages.</p>
+<p>I also encountered issues with broken links, page structure, Python package setup, and rendering project pages correctly in Quarto.</p>
 </section>
 <section id="how-i-solved-problems" class="level2">
 <h2 class="anchored" data-anchor-id="how-i-solved-problems">How I Solved Problems</h2>
@@ -430,6 +434,28 @@ Important
 <h2 class="anchored" data-anchor-id="future-application">Future Application</h2>
 <p>The skills developed in this project will be valuable in both academic and professional contexts. In the future, I aim to build more advanced data analysis projects and continue improving how I communicate technical work.</p>
 <p>This experience has increased my confidence in using digital tools not only to complete assignments, but also to create work that is <strong>polished, purposeful, and professionally presented</strong>.</p>
+</section>
+<section id="development-process" class="level2">
+<h2 class="anchored" data-anchor-id="development-process">Development Process</h2>
+<p>The diagram below illustrates the structured workflow followed in developing this ePortfolio.</p>
+<div class="cell" data-layout-align="default">
+<div class="cell-output-display">
+<div>
+<p></p><figure class="figure"><p></p>
+<div>
+<pre class="mermaid mermaid-js">%%{init: {'flowchart': {'useMaxWidth': true}}}%%
+graph LR
+A[Initial Planning] --&gt; B[Building Pages]
+B --&gt; C[Adding Projects]
+C --&gt; D[Testing &amp; Debugging]
+D --&gt; E[Styling]
+E --&gt; F[Final Reflection]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
 
 
 <!-- -->
@@ -915,7 +941,7 @@ Important
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a>One of the main challenges was understanding how all the technical components of the portfolio worked together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout.</span>
 <span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>I also encountered issues with broken links, page structure, and Python package setup when running code within project pages.</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>I also encountered issues with broken links, page structure, Python package setup, and rendering project pages correctly in Quarto.</span>
 <span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a><span class="fu">## How I Solved Problems</span></span>
 <span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
@@ -945,7 +971,22 @@ Important
 <span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>The skills developed in this project will be valuable in both academic and professional contexts. In the future, I aim to build more advanced data analysis projects and continue improving how I communicate technical work.</span>
 <span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a></span>
-<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>This experience has increased my confidence in using digital tools not only to complete assignments, but also to create work that is **polished, purposeful, and professionally presented**.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>This experience has increased my confidence in using digital tools not only to complete assignments, but also to create work that is **polished, purposeful, and professionally presented**.</span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a><span class="fu">## Development Process</span></span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a>The diagram below illustrates the structured workflow followed in developing this ePortfolio.</span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a><span class="in">```{mermaid}</span></span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a>%<span class="dt">%</span>{init: {<span class="ot">'</span><span class="ss">flowchart</span><span class="ot">'</span>: {<span class="ot">'</span><span class="ss">useMaxWidth</span><span class="ot">'</span>: true}}}%%</span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>graph LR</span>
+<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a>A[Initial Planning] --&gt; B[Building Pages]</span>
+<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a>B --&gt; C[Adding Projects]</span>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a>C --&gt; D[Testing &amp; Debugging]</span>
+<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a>D --&gt; E[Styling]</span>
+<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a>E --&gt; F[Final Reflection]</span>
+<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a><span class="in">```</span></span>
+</code></pre></div><button title="Copy to Clipboard" class="code-copy-button" data-in-quarto-modal=""><i class="bi"></i></button></div>
 </div></div></div></div></div>
 </div> <!-- /content -->
 <footer class="footer">

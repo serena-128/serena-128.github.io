@@ -12,7 +12,7 @@ Through this project, I developed practical skills in **Quarto, Git, GitHub, Pyt
 
 One of the main challenges was understanding how all the technical components of the portfolio worked together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout.
 
-I also encountered issues with broken links, page structure, and Python package setup when running code within project pages.
+I also encountered issues with broken links, page structure, Python package setup, and rendering project pages correctly in Quarto.
 
 ## How I Solved Problems
 
@@ -43,3 +43,17 @@ I resolved this by installing the required packages and ensuring the Python envi
 The skills developed in this project will be valuable in both academic and professional contexts. In the future, I aim to build more advanced data analysis projects and continue improving how I communicate technical work.
 
 This experience has increased my confidence in using digital tools not only to complete assignments, but also to create work that is **polished, purposeful, and professionally presented**.
+
+## Development Process
+
+The diagram below illustrates the structured workflow followed in developing this ePortfolio.
+
+```{mermaid}
+%%{init: {'flowchart': {'useMaxWidth': true}}}%%
+graph LR
+A[Initial Planning] --> B[Building Pages]
+B --> C[Adding Projects]
+C --> D[Testing & Debugging]
+D --> E[Styling]
+E --> F[Final Reflection]
+```
