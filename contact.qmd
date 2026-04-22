@@ -4,7 +4,7 @@ title: "Contact"
 
 ## Get in Touch
 
-If you would like to get in touch, please use the details below.
+I welcome opportunities for collaboration, feedback, and professional connection. Please feel free to get in touch using the details below.
 
 ::: {.section-card}
 - **Email:** serena.emedeke2@mail.dcu.ie  
@@ -19,3 +19,4 @@ References are available upon request.
 ::: {.callout-tip}
 Thank you for taking the time to view my portfolio. I welcome any feedback or opportunities to collaborate.
 :::
+
