@@ -51,7 +51,8 @@ h2::after {
   border-radius: 2px;
 }
 
-p, li {
+p,
+li {
   font-size: 1.05rem;
 }
 
@@ -148,6 +149,20 @@ a:hover {
   text-decoration: none;
 }
 
+.quarto-grid-item {
+  border-radius: 14px;
+  padding: 1rem;
+  background: white;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.quarto-grid-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+}
+
 /* Dark mode support */
 [data-bs-theme="dark"] {
   body {
@@ -159,7 +174,9 @@ a:hover {
     background-color: transparent;
   }
 
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     color: #93c5fd;
   }
 
@@ -167,7 +184,10 @@ a:hover {
     background: #93c5fd;
   }
 
-  p, li, td, th {
+  p,
+  li,
+  td,
+  th {
     color: #e5e7eb;
   }
 
@@ -224,4 +244,14 @@ a:hover {
   .table {
     color: #e5e7eb;
   }
+}
+
+[data-bs-theme="dark"] .quarto-grid-item {
+  background: #1e293b;
+  border: 1px solid #334155;
+  color: #e5e7eb;
+}
+
+[data-bs-theme="dark"] .quarto-grid-item:hover {
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
 }
