@@ -27,7 +27,7 @@ section {
 
 h1, h2, h3 {
   font-weight: 800;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.5px;
   color: #1f3c88;
   margin-top: 1.2rem;
 }
@@ -51,16 +51,8 @@ h2::after {
   border-radius: 2px;
 }
 
-p {
+p, li {
   font-size: 1.05rem;
-}
-
-.navbar {
-  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
-}
-
-.navbar a {
-  font-weight: 600;
 }
 
 a {
@@ -71,6 +63,18 @@ a {
 a:hover {
   text-decoration: underline;
   color: #1f3c88;
+}
+
+.navbar {
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.12);
+}
+
+.navbar a {
+  font-weight: 600;
+}
+
+.navbar a:hover {
+  color: #3a6ea5;
 }
 
 .about-entity img {
@@ -142,4 +146,82 @@ a:hover {
 .section-card a:hover {
   background-color: #3a6ea5;
   text-decoration: none;
+}
+
+/* Dark mode support */
+[data-bs-theme="dark"] {
+  body {
+    background-color: #0f172a;
+    color: #e5e7eb;
+  }
+
+  main {
+    background-color: transparent;
+  }
+
+  h1, h2, h3 {
+    color: #93c5fd;
+  }
+
+  h2::after {
+    background: #93c5fd;
+  }
+
+  p, li, td, th {
+    color: #e5e7eb;
+  }
+
+  a {
+    color: #60a5fa;
+  }
+
+  a:hover {
+    color: #93c5fd;
+  }
+
+  .navbar {
+    box-shadow: 0 3px 12px rgba(0, 0, 0, 0.35);
+  }
+
+  .navbar a:hover {
+    color: #93c5fd;
+  }
+
+  .about-entity img {
+    border-color: #93c5fd;
+  }
+
+  .about-links a {
+    background-color: #2563eb;
+    color: white !important;
+  }
+
+  .about-links a:hover {
+    background-color: #3b82f6;
+  }
+
+  .section-card {
+    background: #1e293b;
+    border-color: #334155;
+    color: #e5e7eb;
+  }
+
+  .section-card a {
+    background-color: #2563eb;
+    color: white !important;
+  }
+
+  .section-card a:hover {
+    background-color: #3b82f6;
+  }
+
+  .callout {
+    background-color: #1e293b;
+    border-left-color: #60a5fa;
+    color: #e5e7eb;
+  }
+
+  .table {
+    color: #e5e7eb;
+  }
 }
