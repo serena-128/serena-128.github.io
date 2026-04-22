@@ -1,12 +1,14 @@
+
 ---
 title: "Projects"
 listing:
   contents: list
   type: grid
-  fields: [title, description, categories]
-  image-height: 200px
+  fields: [image, title, description, categories]
   sort: "date desc"
   categories: true
+  image-height: 180px
+  grid-columns: 2
 ---
 
 This section presents a selection of Python-based projects that demonstrate my ability to **analyse data, interpret results, and communicate insights effectively through code and visualisations**.

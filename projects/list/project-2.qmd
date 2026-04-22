@@ -4,6 +4,8 @@ description: "A Python project analysing monthly income and expenses."
 author: "Serena Emedeke"
 date: 2026-04-16
 categories: [Python, Data Analysis, Budgeting]
+image: /images/budget-project.png
+image-alt: "Donut chart showing monthly budget distribution"
 format:
   html:
     code-fold: true
@@ -43,3 +45,4 @@ fig = px.pie(
 
 fig
 ```
+image: ../../images/budget-project.png
