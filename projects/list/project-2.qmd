@@ -22,6 +22,13 @@ This project analyses a simple monthly budget using Python. It demonstrates how 
 
 The objective of this project is to examine how expenses are distributed across different categories and identify areas of high spending.
 
+## Project Steps
+
+- [x] Budget categories defined
+- [x] Spending data organised in a dataframe
+- [x] Visualisation created to show distribution
+- [x] Spending patterns interpreted
+
 ## Python Code
 
 ```{python}
