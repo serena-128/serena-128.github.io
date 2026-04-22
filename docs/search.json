@@ -208,5 +208,19 @@
     "title": "Monthly Budget Analysis",
     "section": "Python Code",
     "text": "Python Code\n\n\nCode\nimport pandas as pd\nimport plotly.express as px\n\nbudget = pd.DataFrame({\n    \"Category\": [\"Rent\", \"Food\", \"Transport\", \"Entertainment\", \"Savings\"],\n    \"Amount\": [800, 250, 100, 120, 300]\n})\n\nbudget\n\nfig = px.pie(\n    budget,\n    values=\"Amount\",\n    names=\"Category\",\n    title=\"Monthly Budget Distribution\",\n    hole=0.3\n)\n\nfig"
+  },
+  {
+    "objectID": "projects/list/project-1.html#interpretation",
+    "href": "projects/list/project-1.html#interpretation",
+    "title": "Student Performance Analysis",
+    "section": "Interpretation",
+    "text": "Interpretation\nThe chart shows a clear positive relationship between study hours and student performance. As study time increases, scores also increase, indicating a strong upward trend.\nThis suggests that increased study time has a direct impact on academic performance in this dataset."
+  },
+  {
+    "objectID": "projects/list/project-1.html#reflection",
+    "href": "projects/list/project-1.html#reflection",
+    "title": "Student Performance Analysis",
+    "section": "Reflection",
+    "text": "Reflection\nThis project demonstrates how data analysis can be used to identify relationships between variables.\nThrough this task, I developed my ability to create datasets, generate visualisations, and interpret trends. In future, this analysis could be extended by including more data points or additional variables such as revision methods or subject difficulty.\nThis project demonstrates my ability to apply Python, data analysis, and data visualisation techniques to identify and communicate meaningful insights."
   }
 ]
