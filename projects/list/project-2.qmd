@@ -8,6 +8,8 @@ format:
   html:
     code-fold: true
     code-tools: true
+execute:
+  engine: jupyter
 ---
 
 ## Overview
@@ -22,7 +24,7 @@ The objective of this project is to examine how expenses are distributed across 
 
 ```{python}
 import pandas as pd
-import matplotlib.pyplot as plt
+import plotly.express as px
 
 budget = pd.DataFrame({
     "Category": ["Rent", "Food", "Transport", "Entertainment", "Savings"],
@@ -31,6 +33,13 @@ budget = pd.DataFrame({
 
 budget
 
-plt.pie(budget["Amount"], labels=budget["Category"], autopct='%1.1f%%')
-plt.title("Monthly Budget Distribution")
-plt.show()
+fig = px.pie(
+    budget,
+    values="Amount",
+    names="Category",
+    title="Monthly Budget Distribution",
+    hole=0.3
+)
+
+fig
+```

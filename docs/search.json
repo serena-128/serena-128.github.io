@@ -207,6 +207,6 @@
     "href": "projects/list/project-2.html#python-code",
     "title": "Monthly Budget Analysis",
     "section": "Python Code",
-    "text": "Python Code\nimport pandas as pd import matplotlib.pyplot as plt\nbudget = pd.DataFrame({ “Category”: [“Rent”, “Food”, “Transport”, “Entertainment”, “Savings”], “Amount”: [800, 250, 100, 120, 300] })\nbudget\nplt.pie(budget[“Amount”], labels=budget[“Category”], autopct=‘%1.1f%%’) plt.title(“Monthly Budget Distribution”) plt.show()"
+    "text": "Python Code\n\n\nCode\nimport pandas as pd\nimport plotly.express as px\n\nbudget = pd.DataFrame({\n    \"Category\": [\"Rent\", \"Food\", \"Transport\", \"Entertainment\", \"Savings\"],\n    \"Amount\": [800, 250, 100, 120, 300]\n})\n\nbudget\n\nfig = px.pie(\n    budget,\n    values=\"Amount\",\n    names=\"Category\",\n    title=\"Monthly Budget Distribution\",\n    hole=0.3\n)\n\nfig"
   }
 ]
