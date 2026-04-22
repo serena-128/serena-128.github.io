@@ -1,10 +1,115 @@
 [
   {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection",
+    "section": "",
+    "text": "Creating this ePortfolio has been one of the most valuable learning experiences in this module, as it required me to combine technical skills, organisation, creativity, and critical self-reflection."
+  },
+  {
+    "objectID": "reflection.html#what-i-learned",
+    "href": "reflection.html#what-i-learned",
+    "title": "Reflection",
+    "section": "What I Learned",
+    "text": "What I Learned\nThrough this project, I developed practical skills in Quarto, Git, GitHub, Python, and web design. I learned how to structure a professional website, organise files effectively, manage changes using version control, and present work in a clear and visually engaging way."
+  },
+  {
+    "objectID": "reflection.html#challenges-i-faced",
+    "href": "reflection.html#challenges-i-faced",
+    "title": "Reflection",
+    "section": "Challenges I Faced",
+    "text": "Challenges I Faced\nOne of the main challenges was understanding how all the technical components of the portfolio worked together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout.\nI also encountered issues with broken links, page structure, and Python package setup when running code within project pages."
+  },
+  {
+    "objectID": "reflection.html#how-i-solved-problems",
+    "href": "reflection.html#how-i-solved-problems",
+    "title": "Reflection",
+    "section": "How I Solved Problems",
+    "text": "How I Solved Problems\nI approached these challenges by working through them step by step. I tested changes, corrected file paths, improved my Quarto configuration, and installed the required Python packages.\nThis process showed me that technical work often involves debugging, testing, and refining solutions, rather than expecting everything to work immediately.\n\n\n\n\n\n\nImportant\n\n\n\nA key lesson from this project is that professional digital work is not only about writing content — it also involves testing, debugging, refining, and presenting work effectively."
+  },
+  {
+    "objectID": "reflection.html#skills-development",
+    "href": "reflection.html#skills-development",
+    "title": "Reflection",
+    "section": "Skills Development",
+    "text": "Skills Development\nThis project strengthened my confidence in: - building and styling a website using Quarto\n- managing a project using Git and GitHub\n- using Python for data analysis and visualisation\n- presenting academic work in a clear and professional format"
+  },
+  {
+    "objectID": "reflection.html#challenge-example",
+    "href": "reflection.html#challenge-example",
+    "title": "Reflection",
+    "section": "Challenge Example",
+    "text": "Challenge Example\nOne specific challenge I faced was configuring Python within Quarto. Missing dependencies caused errors during rendering, which prevented my project pages from working correctly.\nI resolved this by installing the required packages and ensuring the Python environment was correctly configured. This improved my troubleshooting ability and gave me a better understanding of how development environments function."
+  },
+  {
+    "objectID": "reflection.html#future-application",
+    "href": "reflection.html#future-application",
+    "title": "Reflection",
+    "section": "Future Application",
+    "text": "Future Application\nThe skills developed in this project will be valuable in both academic and professional contexts. In the future, I aim to build more advanced data analysis projects and continue improving how I communicate technical work.\nThis experience has increased my confidence in using digital tools not only to complete assignments, but also to create work that is polished, purposeful, and professionally presented."
+  },
+  {
+    "objectID": "projects/list/project-1.html",
+    "href": "projects/list/project-1.html",
+    "title": "Student Performance Analysis",
+    "section": "",
+    "text": "This project analyses the relationship between study hours and student performance using Python. It demonstrates how data can be organised, visualised, and interpreted to identify trends."
+  },
+  {
+    "objectID": "projects/list/project-1.html#overview",
+    "href": "projects/list/project-1.html#overview",
+    "title": "Student Performance Analysis",
+    "section": "",
+    "text": "This project analyses the relationship between study hours and student performance using Python. It demonstrates how data can be organised, visualised, and interpreted to identify trends."
+  },
+  {
+    "objectID": "projects/list/project-1.html#objectives",
+    "href": "projects/list/project-1.html#objectives",
+    "title": "Student Performance Analysis",
+    "section": "Objectives",
+    "text": "Objectives\n\nOrganise data in a clear and structured format\n\nAnalyse the relationship between study time and performance\n\nVisualise results using Python\n\nInterpret findings and draw conclusions"
+  },
+  {
+    "objectID": "projects/list/project-1.html#python-code",
+    "href": "projects/list/project-1.html#python-code",
+    "title": "Student Performance Analysis",
+    "section": "Python Code",
+    "text": "Python Code\n\n\nCode\nimport pandas as pd\nimport plotly.express as px\n\ndf = pd.DataFrame({\n    \"StudyHours\": [1, 2, 3, 4, 5],\n    \"Score\": [50, 55, 65, 72, 85]\n})\n\ndf\n\nfig = px.line(\n    df,\n    x=\"StudyHours\",\n    y=\"Score\",\n    markers=True,\n    title=\"Study Hours vs Score\"\n)\n\nfig"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
     "text": "Hi, I’m Serena Emedeke — a student developing practical skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio demonstrates my ability to analyse data, build structured digital projects, solve technical problems, and present work in a clear and professional format."
+  },
+  {
+    "objectID": "index.html#welcome-to-my-portfolio",
+    "href": "index.html#welcome-to-my-portfolio",
+    "title": "Home",
+    "section": "",
+    "text": "Hi, I’m Serena Emedeke — a student developing practical skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio demonstrates my ability to analyse data, build structured digital projects, solve technical problems, and present work in a clear and professional format."
+  },
+  {
+    "objectID": "index.html#what-i-bring",
+    "href": "index.html#what-i-bring",
+    "title": "Home",
+    "section": "What I Bring",
+    "text": "What I Bring\n\nStrong foundation in Python and data analysis\nAbility to communicate technical results clearly\nExperience using Git and version control\nA structured and professional approach to project work"
+  },
+  {
+    "objectID": "index.html#highlights",
+    "href": "index.html#highlights",
+    "title": "Home",
+    "section": "Highlights",
+    "text": "Highlights\n\n📊 Data Analysis Projects\nPractical Python projects demonstrating data organisation, interpretation, and visualisation.\n\n\n🧠 Problem Solving and Reflection\nEvidence of critical thinking, troubleshooting, and continuous improvement through reflective practice.\n\n\n📄 Professional Portfolio\nA polished overview of my background, skills, CV, and contact information."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Home",
+    "section": "Featured Projects",
+    "text": "Featured Projects\nEach project demonstrates a structured approach to data analysis, including objectives, implementation, interpretation, and reflection.\n\n📊 Student Performance Analysis\nA Python project analysing the relationship between study time and academic performance, using data visualisation to identify trends and support conclusions.\nTools: Python, Pandas, Matplotlib\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses to identify spending patterns and support financial decision-making through data visualisation.\nTools: Python, Pandas, Matplotlib\nView Project"
   },
   {
     "objectID": "about.html",
@@ -14,74 +119,53 @@
     "text": "I am a student developing practical skills in data analysis, web technologies, and digital presentation. Through this portfolio, I have applied tools such as Python, Quarto, and GitHub to create structured projects that demonstrate both technical ability and clear communication of results."
   },
   {
-    "objectID": "reflection.html",
-    "href": "reflection.html",
-    "title": "Reflection",
-    "section": "",
-    "text": "Creating this ePortfolio has been one of the most valuable learning experiences in this module because it required me to combine technical ability, organisation, creativity, and critical self-reflection."
+    "objectID": "about.html#background",
+    "href": "about.html#background",
+    "title": "About Me",
+    "section": "Background",
+    "text": "Background\n\nBuilding this portfolio has strengthened my confidence in using Quarto, GitHub, and Python in a practical context. I developed stronger organisational skills by structuring pages clearly and maintaining consistency across the site.\nThis process also improved my ability to present academic work in a professional and visually effective format, ensuring that information is clear, accessible, and well-structured."
   },
   {
-    "objectID": "reflection.html#reflection",
-    "href": "reflection.html#reflection",
-    "title": "Reflection",
-    "section": "",
-    "text": "Creating this ePortfolio has been one of the most valuable learning experiences in this module because it required me to combine technical ability, organisation, creativity, and critical self-reflection."
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\n\nSkill\nHow I Used It\nLevel Developed\n\n\n\n\nQuarto\nBuilt and published a structured portfolio website\nIntermediate\n\n\nGit & GitHub\nManaged commits, version control, and project progress\nIntermediate\n\n\nPython\nDeveloped data analysis and visualisation projects\nIntermediate\n\n\nWeb Design\nImproved layout, styling, and readability\nDeveloping\n\n\nCommunication\nPresented technical work clearly and professionally\nStrong"
+  },
+  {
+    "objectID": "about.html#strengths",
+    "href": "about.html#strengths",
+    "title": "About Me",
+    "section": "Strengths",
+    "text": "Strengths\n\n\n\n\n\n\nTip\n\n\n\nMy key strengths include organisation, adaptability, attention to detail, and problem-solving.\nI demonstrated organisation by structuring my portfolio clearly and maintaining consistent styling across pages. I showed adaptability by learning new tools such as Quarto and GitHub and applying them effectively. My attention to detail is reflected in the layout, formatting, and clarity of my work."
+  },
+  {
+    "objectID": "about.html#goals",
+    "href": "about.html#goals",
+    "title": "About Me",
+    "section": "Goals",
+    "text": "Goals\nI aim to continue developing my technical and analytical skills, particularly in Python and data visualisation.\nIn the future, I plan to build more complex data-driven projects and further improve my ability to communicate insights clearly. These skills will support both my academic development and progression into a data-focused career."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "If you would like to get in touch, please use the details below.\n\n\nEmail: samhineme128@gmail.com\n\nGitHub: serena-128\n\nLinkedIn: Your LinkedIn Profile"
+    "text": "If you would like to get in touch, please use the details below.\n\n\nEmail: serena.emedeke2@mail.dcu.ie\n\nGitHub: serena-128\n\nLinkedIn: Serena Emedeke"
   },
   {
-    "objectID": "contact.html#contact-me",
-    "href": "contact.html#contact-me",
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
     "title": "Contact",
     "section": "",
-    "text": "Email: samhin.eme12345@gmail.com\n\nGitHub: https://github.com/serena-128"
+    "text": "If you would like to get in touch, please use the details below.\n\n\nEmail: serena.emedeke2@mail.dcu.ie\n\nGitHub: serena-128\n\nLinkedIn: Serena Emedeke"
   },
   {
     "objectID": "contact.html#references",
     "href": "contact.html#references",
     "title": "Contact",
     "section": "References",
-    "text": "References\nReferences are available upon request.\n\n\n\n\n\n\nTip\n\n\n\nThank you for taking the time to view my portfolio."
-  },
-  {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Home",
-    "section": "",
-    "text": "Hi, I’m Serena Emedeke — a student developing practical skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio demonstrates my ability to analyse data, develop structured projects, and present technical work in a clear and professional format."
-  },
-  {
-    "objectID": "projects/list/index.html",
-    "href": "projects/list/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "This section will showcase my Python projects, data analysis work, and visualisations."
-  },
-  {
-    "objectID": "projects/list/index.html#projects",
-    "href": "projects/list/index.html#projects",
-    "title": "Projects",
-    "section": "",
-    "text": "This section will showcase my Python projects, data analysis work, and visualisations."
-  },
-  {
-    "objectID": "projects/projects/index.html",
-    "href": "projects/projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "This section will showcase my Python projects, data analysis work, and visualisations."
-  },
-  {
-    "objectID": "projects/projects/index.html#projects",
-    "href": "projects/projects/index.html#projects",
-    "title": "Projects",
-    "section": "",
-    "text": "This section will showcase my Python projects, data analysis work, and visualisations."
+    "text": "References\nReferences are available upon request.\n\n\n\n\n\n\nTip\n\n\n\nThank you for taking the time to view my portfolio. I welcome any feedback or opportunities to collaborate."
   },
   {
     "objectID": "projects/index.html",
@@ -89,41 +173,6 @@
     "title": "Projects",
     "section": "",
     "text": "This section presents a selection of Python-based projects that demonstrate my ability to analyse data, interpret results, and communicate insights effectively through code and visualisations."
-  },
-  {
-    "objectID": "projects/index.html#projects",
-    "href": "projects/index.html#projects",
-    "title": "Projects",
-    "section": "",
-    "text": "This section will showcase my Python projects."
-  },
-  {
-    "objectID": "projects/list/project-1.html",
-    "href": "projects/list/project-1.html",
-    "title": "Student Performance Analysis",
-    "section": "",
-    "text": "This project explores how study hours relate to student performance and demonstrates basic data analysis using Python."
-  },
-  {
-    "objectID": "projects/list/project-1.html#overview",
-    "href": "projects/list/project-1.html#overview",
-    "title": "Student Performance Analysis",
-    "section": "",
-    "text": "This project explores how study hours relate to student performance and demonstrates basic data analysis using Python."
-  },
-  {
-    "objectID": "projects/list/project-1.html#python-code",
-    "href": "projects/list/project-1.html#python-code",
-    "title": "Student Performance Analysis",
-    "section": "Python Code",
-    "text": "Python Code\n\n\nCode\nimport pandas as pd\nimport matplotlib.pyplot as plt\n\ndf = pd.DataFrame({\n    \"StudyHours\": [1, 2, 3, 4, 5],\n    \"Score\": [50, 55, 65, 72, 85]\n})\n\ndf\n\n\n\n\n\n\n\n\n\nStudyHours\nScore\n\n\n\n\n0\n1\n50\n\n\n1\n2\n55\n\n\n2\n3\n65\n\n\n3\n4\n72\n\n\n4\n5\n85\n\n\n\n\n\n\n\n\n\nCode\nplt.plot(df[\"StudyHours\"], df[\"Score\"], marker=\"o\")\nplt.xlabel(\"Study Hours\")\nplt.ylabel(\"Score\")\nplt.title(\"Study Hours vs Score\")\nplt.show()"
-  },
-  {
-    "objectID": "projects/list/project-1.html#reflection",
-    "href": "projects/list/project-1.html#reflection",
-    "title": "Student Performance Analysis",
-    "section": "Reflection",
-    "text": "Reflection\nThis project helped me practise using Python for data analysis and visualisation. It also improved my understanding of how charts can be used to communicate trends clearly."
   },
   {
     "objectID": "projects/index.html#my-projects",
@@ -147,181 +196,6 @@
     "text": "This project analyses a simple monthly budget using Python. It demonstrates how financial data can be organised and visualised to better understand spending patterns and support decision-making."
   },
   {
-    "objectID": "projects/list/project-2.html#python-code",
-    "href": "projects/list/project-2.html#python-code",
-    "title": "Monthly Budget Analysis",
-    "section": "Python Code",
-    "text": "Python Code\nimport pandas as pd import matplotlib.pyplot as plt\nbudget = pd.DataFrame({ “Category”: [“Rent”, “Food”, “Transport”, “Entertainment”, “Savings”], “Amount”: [800, 250, 100, 120, 300] })\nbudget\nplt.pie(budget[“Amount”], labels=budget[“Category”], autopct=‘%1.1f%%’) plt.title(“Monthly Budget Distribution”) plt.show()"
-  },
-  {
-    "objectID": "projects/list/project-2.html#reflection",
-    "href": "projects/list/project-2.html#reflection",
-    "title": "Monthly Budget Analysis",
-    "section": "Reflection",
-    "text": "Reflection\nThis project helped me practise organising data and creating visualisations using Python."
-  },
-  {
-    "objectID": "index.html#what-youll-find-here",
-    "href": "index.html#what-youll-find-here",
-    "title": "Home",
-    "section": "What You’ll Find Here",
-    "text": "What You’ll Find Here\n\n\n\n\n\n\nTip📌 Professional Profile\n\n\n\nInformation about my background, skills, and experience.\n\n\n\n\n\n\n\n\nTip📊 Data Projects\n\n\n\nPython-based projects with data analysis and visualisations.\n\n\n\n\n\n\n\n\nTip🧠 Reflection\n\n\n\nInsights into my learning process and skill development.\n\n\n\n\n\n\n\n\nTip📄 CV & Contact\n\n\n\nAccess to my CV and ways to connect with me."
-  },
-  {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
-    "title": "Home",
-    "section": "Featured Projects",
-    "text": "Featured Projects\nEach project demonstrates a structured approach to data analysis, including objectives, implementation, interpretation, and reflection.\n\n📊 Student Performance Analysis\nA Python project analysing the relationship between study time and academic performance, using data visualisation to identify trends and support conclusions.\nTools: Python, Pandas, Matplotlib\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses to identify spending patterns and support financial decision-making through data visualisation.\nTools: Python, Pandas, Matplotlib\nView Project"
-  },
-  {
-    "objectID": "about.html#about-me",
-    "href": "about.html#about-me",
-    "title": "About Me",
-    "section": "",
-    "text": "I am a student developing practical skills in data analysis, web technologies, and digital presentation. Through this portfolio, I have applied tools such as Python, Quarto, and GitHub to create structured projects that demonstrate both technical ability and clear communication of results."
-  },
-  {
-    "objectID": "about.html#skills",
-    "href": "about.html#skills",
-    "title": "About Me",
-    "section": "Skills",
-    "text": "Skills\n\n\n\n\n\n\n\n\nSkill\nHow I Used It\nLevel Developed\n\n\n\n\nQuarto\nBuilt and published a structured portfolio website\nIntermediate\n\n\nGit & GitHub\nManaged commits, version control, and project progress\nIntermediate\n\n\nPython\nDeveloped data analysis and visualisation projects\nIntermediate\n\n\nWeb Design\nImproved layout, styling, and readability\nDeveloping\n\n\nCommunication\nPresented technical work clearly and professionally\nStrong"
-  },
-  {
-    "objectID": "about.html#academic-and-professional-goals",
-    "href": "about.html#academic-and-professional-goals",
-    "title": "About Me",
-    "section": "Academic and Professional Goals",
-    "text": "Academic and Professional Goals\nMy goal is to continue developing technical and analytical skills that will support both my academic progress and future career opportunities. I want to improve my confidence in presenting projects, solving technical problems, and using digital tools in a professional setting."
-  },
-  {
-    "objectID": "about.html#what-this-portfolio-represents",
-    "href": "about.html#what-this-portfolio-represents",
-    "title": "About Me",
-    "section": "What this portfolio represents",
-    "text": "What this portfolio represents\nThis ePortfolio demonstrates not only completed work, but also my progress in learning how to plan, build, refine, and present digital projects effectively."
-  },
-  {
-    "objectID": "projects/list/project-1.html#objectives",
-    "href": "projects/list/project-1.html#objectives",
-    "title": "Student Performance Analysis",
-    "section": "Objectives",
-    "text": "Objectives\n\norganise data clearly\nanalyse the relationship between variables\nvisualise results\nreflect on findings"
-  },
-  {
-    "objectID": "projects/list/project-1.html#interpretation",
-    "href": "projects/list/project-1.html#interpretation",
-    "title": "Student Performance Analysis",
-    "section": "Interpretation",
-    "text": "Interpretation\nThe results show a clear relationship between the variables. As study time increases, performance improves, indicating a positive trend.\nThis demonstrates how data analysis can be used to identify patterns and support conclusions."
-  },
-  {
-    "objectID": "reflection.html#skills-developed",
-    "href": "reflection.html#skills-developed",
-    "title": "Reflection",
-    "section": "Skills Developed",
-    "text": "Skills Developed\nThrough this work, I strengthened my understanding of Quarto, Git, GitHub Pages, Python, and web design. I learned how to structure a website properly, manage files in a logical way, and present work in a clearer and more professional format."
-  },
-  {
-    "objectID": "reflection.html#challenges-and-problem-solving",
-    "href": "reflection.html#challenges-and-problem-solving",
-    "title": "Reflection",
-    "section": "Challenges and Problem-Solving",
-    "text": "Challenges and Problem-Solving\nOne of the main challenges I faced was understanding how the different parts of the project fit together, especially when working with page structure, navigation, rendering, and Python execution inside Quarto. I also experienced issues with missing files, formatting errors, and Python package setup.\nWorking through these problems taught me the importance of patience, testing, and careful troubleshooting. Rather than giving up when errors appeared, I learned to fix them step by step and improve the quality of my work.\n\n\n\n\n\n\nNote\n\n\n\nA key lesson from this project was that professional digital work is not only about writing content, but also about organisation, presentation, debugging, and revision."
-  },
-  {
-    "objectID": "reflection.html#what-i-learned-about-myself",
-    "href": "reflection.html#what-i-learned-about-myself",
-    "title": "Reflection",
-    "section": "What I Learned About Myself",
-    "text": "What I Learned About Myself\nThis project showed me that I am capable of learning technical tools and applying them in a practical way. It also helped me build confidence in presenting my work more professionally and thinking more critically about how projects are communicated to others."
-  },
-  {
-    "objectID": "reflection.html#future-goals",
-    "href": "reflection.html#future-goals",
-    "title": "Reflection",
-    "section": "Future Goals",
-    "text": "Future Goals\nIn the future, I would like to continue improving my skills in Python, data visualisation, and digital presentation. I also want to build more advanced projects that demonstrate stronger analytical ability and creative problem-solving. These skills will be valuable in both academic work and future career opportunities."
-  },
-  {
-    "objectID": "contact.html#contact",
-    "href": "contact.html#contact",
-    "title": "Contact",
-    "section": "",
-    "text": "If you would like to get in touch, please use the details below.\n\n\nEmail: samhineme128@gmail.com\n\nGitHub: serena-128\n\nLinkedIn: Your LinkedIn Profile"
-  },
-  {
-    "objectID": "index.html#highlights",
-    "href": "index.html#highlights",
-    "title": "Home",
-    "section": "Highlights",
-    "text": "Highlights\n\n📊 Data Analysis Projects\nPractical Python projects demonstrating data organisation, interpretation, and visualisation.\n\n\n🧠 Problem Solving and Reflection\nEvidence of critical thinking, troubleshooting, and continuous improvement through reflective practice.\n\n\n📄 Professional Portfolio\nA polished overview of my background, skills, CV, and contact information."
-  },
-  {
-    "objectID": "about.html#background",
-    "href": "about.html#background",
-    "title": "About Me",
-    "section": "Background",
-    "text": "Background\n\nBuilding this portfolio has strengthened my confidence in using Quarto, GitHub, and Python in a practical context. I developed stronger organisational skills by structuring pages clearly and maintaining consistency across the site.\nThis process also improved my ability to present academic work in a professional and visually effective format, ensuring that information is clear, accessible, and well-structured."
-  },
-  {
-    "objectID": "about.html#strengths",
-    "href": "about.html#strengths",
-    "title": "About Me",
-    "section": "Strengths",
-    "text": "Strengths\n\n\n\n\n\n\nTip\n\n\n\nMy key strengths include organisation, adaptability, attention to detail, and problem-solving.\nI demonstrated organisation by structuring my portfolio clearly and maintaining consistent styling across pages. I showed adaptability by learning new tools such as Quarto and GitHub and applying them effectively. My attention to detail is reflected in the layout, formatting, and clarity of my work."
-  },
-  {
-    "objectID": "about.html#goals",
-    "href": "about.html#goals",
-    "title": "About Me",
-    "section": "Goals",
-    "text": "Goals\nI aim to continue developing my technical and analytical skills, particularly in Python and data visualisation.\nIn the future, I plan to build more complex data-driven projects and further improve my ability to communicate insights clearly. These skills will support both my academic development and progression into a data-focused career."
-  },
-  {
-    "objectID": "reflection.html#what-i-learned",
-    "href": "reflection.html#what-i-learned",
-    "title": "Reflection",
-    "section": "What I Learned",
-    "text": "What I Learned\nThrough this project, I developed practical skills in Quarto, Git, GitHub, Python, and web design. I learned how to structure a professional website, organise files correctly, manage changes through version control, and present work in a way that is both clear and visually engaging."
-  },
-  {
-    "objectID": "reflection.html#challenges-i-faced",
-    "href": "reflection.html#challenges-i-faced",
-    "title": "Reflection",
-    "section": "Challenges I Faced",
-    "text": "Challenges I Faced\nOne of the biggest challenges was understanding how all the technical parts of the portfolio connected together. I had to learn how Quarto uses file structure, page rendering, and YAML configuration to control navigation and layout. I also faced difficulties with broken links, page structure issues, and Python package setup when trying to run code inside project pages."
-  },
-  {
-    "objectID": "reflection.html#how-i-solved-problems",
-    "href": "reflection.html#how-i-solved-problems",
-    "title": "Reflection",
-    "section": "How I Solved Problems",
-    "text": "How I Solved Problems\nInstead of giving up when errors appeared, I worked through them step by step. I tested changes, fixed file structure problems, improved my Quarto configuration, and installed the packages needed for Python execution. This process taught me that technical work often depends on patience, troubleshooting, and attention to detail.\n\n\n\n\n\n\nImportant\n\n\n\nA key lesson from this project is that professional digital work is not only about writing content — it also involves testing, debugging, refining, and presenting work effectively."
-  },
-  {
-    "objectID": "reflection.html#skills-development",
-    "href": "reflection.html#skills-development",
-    "title": "Reflection",
-    "section": "Skills Development",
-    "text": "Skills Development\nThis project strengthened my confidence in: - building and styling a website - managing a project using Git and GitHub - using Python for analysis and visualisation - presenting academic work in a professional format"
-  },
-  {
-    "objectID": "reflection.html#future-application",
-    "href": "reflection.html#future-application",
-    "title": "Reflection",
-    "section": "Future Application",
-    "text": "Future Application\nThe skills I developed in this project will be useful in both academic and professional contexts. In the future, I want to build more advanced data analysis projects and continue improving how I communicate technical work. I now feel more confident in using digital tools not just to complete assignments, but to create work that looks polished, purposeful, and professional."
-  },
-  {
-    "objectID": "index.html#featured-projects-1",
-    "href": "index.html#featured-projects-1",
-    "title": "Home",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\n📊 Student Performance Analysis\nA Python project exploring the relationship between study time and academic performance.\nView Project\n\n\n💰 Monthly Budget Analysis\nA Python project analysing income and expenses using tabular and graphical output.\nView Project"
-  },
-  {
     "objectID": "projects/list/project-2.html#objective",
     "href": "projects/list/project-2.html#objective",
     "title": "Monthly Budget Analysis",
@@ -329,24 +203,10 @@
     "text": "Objective\nThe objective of this project is to examine how expenses are distributed across different categories and identify areas of high spending."
   },
   {
-    "objectID": "index.html#what-i-bring",
-    "href": "index.html#what-i-bring",
-    "title": "Home",
-    "section": "What I Bring",
-    "text": "What I Bring\n\nStrong foundation in Python and data analysis\nAbility to communicate technical results clearly\nExperience using Git and version control\nA structured and professional approach to project work"
-  },
-  {
-    "objectID": "reflection.html#challenge-example",
-    "href": "reflection.html#challenge-example",
-    "title": "Reflection",
-    "section": "Challenge Example",
-    "text": "Challenge Example\nOne challenge I faced was configuring Python within Quarto, where missing dependencies caused errors during rendering. I resolved this by installing the required packages and ensuring the environment was correctly set up.\nThis improved my troubleshooting skills and understanding of development environments."
-  },
-  {
-    "objectID": "index.html#welcome-to-my-portfolio",
-    "href": "index.html#welcome-to-my-portfolio",
-    "title": "Home",
-    "section": "",
-    "text": "Hi, I’m Serena Emedeke — a student developing practical skills in Python, data analysis, Quarto, Git, and digital presentation.\n\n\n\n\n\n\nNote\n\n\n\nThis portfolio demonstrates my ability to analyse data, build structured digital projects, solve technical problems, and present work in a clear and professional format."
+    "objectID": "projects/list/project-2.html#python-code",
+    "href": "projects/list/project-2.html#python-code",
+    "title": "Monthly Budget Analysis",
+    "section": "Python Code",
+    "text": "Python Code\nimport pandas as pd import matplotlib.pyplot as plt\nbudget = pd.DataFrame({ “Category”: [“Rent”, “Food”, “Transport”, “Entertainment”, “Savings”], “Amount”: [800, 250, 100, 120, 300] })\nbudget\nplt.pie(budget[“Amount”], labels=budget[“Category”], autopct=‘%1.1f%%’) plt.title(“Monthly Budget Distribution”) plt.show()"
   }
 ]

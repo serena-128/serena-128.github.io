@@ -1,6 +1,6 @@
 ---
 title: "Student Performance Analysis"
-description: "A simple Python project exploring the relationship between study time and grades."
+description: "A Python project analysing the relationship between study time and academic performance."
 author: "Serena Emedeke"
 date: 2026-04-16
 categories: [Python, Data Analysis]
@@ -8,24 +8,28 @@ format:
   html:
     code-fold: true
     code-tools: true
+execute:
+  engine: jupyter
+  echo: true
+  eval: true
 ---
 
 ## Overview
 
-This project explores how study hours relate to student performance and demonstrates basic data analysis using Python.
+This project analyses the relationship between study hours and student performance using Python. It demonstrates how data can be organised, visualised, and interpreted to identify trends.
 
 ## Objectives
 
-- organise data clearly
-- analyse the relationship between variables
-- visualise results
-- reflect on findings
+- Organise data in a clear and structured format  
+- Analyse the relationship between study time and performance  
+- Visualise results using Python  
+- Interpret findings and draw conclusions  
 
 ## Python Code
 
 ```{python}
 import pandas as pd
-import matplotlib.pyplot as plt
+import plotly.express as px
 
 df = pd.DataFrame({
     "StudyHours": [1, 2, 3, 4, 5],
@@ -33,22 +37,14 @@ df = pd.DataFrame({
 })
 
 df
+
+fig = px.line(
+    df,
+    x="StudyHours",
+    y="Score",
+    markers=True,
+    title="Study Hours vs Score"
+)
+
+fig
 ```
-
-```{python}
-plt.plot(df["StudyHours"], df["Score"], marker="o")
-plt.xlabel("Study Hours")
-plt.ylabel("Score")
-plt.title("Study Hours vs Score")
-plt.show()
-```
-
-## Interpretation
-
-The results show a clear relationship between the variables. As study time increases, performance improves, indicating a positive trend.
-
-This demonstrates how data analysis can be used to identify patterns and support conclusions.
-
-## Reflection
-
-This project helped me practise using Python for data analysis and visualisation. It also improved my understanding of how charts can be used to communicate trends clearly.

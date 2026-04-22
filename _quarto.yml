@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  engine: python
+
 website:
   title: "Serena Emedeke"
   favicon: images/logo.png
