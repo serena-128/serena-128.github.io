@@ -193,7 +193,7 @@
     "href": "projects/index.html#my-projects",
     "title": "Projects",
     "section": "My Projects",
-    "text": "My Projects\n\n📊 Student Performance Analysis\nObjective:\nTo analyse the relationship between study time and academic performance.\nOverview:\nThis project uses Python to organise and analyse data, applying visualisation techniques to identify trends and support conclusions.\nKey Features: - Data organisation using Pandas\n- Trend analysis and interpretation\n- Visualisation using Matplotlib\nTools: Python, Pandas, Matplotlib\nView Project →\n\n\n💰 Monthly Budget Analysis\nObjective:\nTo analyse how monthly expenses are distributed and identify key spending patterns.\nOverview:\nThis project applies data analysis techniques to financial data, using visualisation to present how income is allocated across categories.\nKey Features: - Structured financial data analysis\n- Visualisation of spending distribution\n- Interpretation of budget allocation\nTools: Python, Pandas, Matplotlib\nView Project →"
+    "text": "My Projects"
   },
   {
     "objectID": "projects/list/project-2.html",

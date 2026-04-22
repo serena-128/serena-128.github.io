@@ -1,5 +1,12 @@
 ---
 title: "Projects"
+listing:
+  contents: list
+  type: grid
+  fields: [title, description, categories]
+  image-height: 200px
+  sort: "date desc"
+  categories: true
 ---
 
 This section presents a selection of Python-based projects that demonstrate my ability to **analyse data, interpret results, and communicate insights effectively through code and visualisations**.
@@ -9,41 +16,3 @@ Each project follows a structured approach, including **objectives, implementati
 :::
 
 ## My Projects
-
-::: {.section-card}
-### 📊 Student Performance Analysis
-
-**Objective:**  
-To analyse the relationship between study time and academic performance.
-
-**Overview:**  
-This project uses Python to organise and analyse data, applying visualisation techniques to identify trends and support conclusions.
-
-**Key Features:**
-- Data organisation using Pandas  
-- Trend analysis and interpretation  
-- Visualisation using Matplotlib  
-
-**Tools:** Python, Pandas, Matplotlib  
-
-[View Project →](list/project-1.html)
-:::
-
-::: {.section-card}
-### 💰 Monthly Budget Analysis
-
-**Objective:**  
-To analyse how monthly expenses are distributed and identify key spending patterns.
-
-**Overview:**  
-This project applies data analysis techniques to financial data, using visualisation to present how income is allocated across categories.
-
-**Key Features:**
-- Structured financial data analysis  
-- Visualisation of spending distribution  
-- Interpretation of budget allocation  
-
-**Tools:** Python, Pandas, Matplotlib  
-
-[View Project →](list/project-2.html)
-:::
