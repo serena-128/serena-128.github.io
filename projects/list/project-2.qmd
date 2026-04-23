@@ -52,4 +52,8 @@ fig = px.pie(
 
 fig
 ```
-image: ../../images/budget-project.png
+## Interpretation
+
+The chart shows how monthly expenses are distributed across different categories. Rent takes up the largest proportion of the budget, followed by savings and food, while transport and entertainment account for smaller portions.
+
+This suggests that fixed costs such as rent have the greatest impact on overall spending, highlighting the importance of budgeting effectively.
