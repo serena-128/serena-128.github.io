@@ -50,6 +50,12 @@ fig = px.line(
 
 fig
 ```
+## Interpretation
+
+The chart shows a clear positive relationship between study hours and student performance. As study time increases, scores also increase, indicating a strong upward trend.
+
+This suggests that increased study time has a direct impact on academic performance in this dataset.
+
 ## Limitations and Next Steps
 
 This analysis is based on a small dataset and is intended to demonstrate analytical techniques rather than draw real-world conclusions. Future work could involve using larger datasets, incorporating additional variables, and applying statistical methods to strengthen the analysis.
