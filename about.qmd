@@ -35,3 +35,9 @@ I demonstrated organisation by structuring my portfolio clearly and maintaining 
 I aim to continue developing my **technical and analytical skills**, particularly in Python and data visualisation.
 
 In the future, I plan to build more complex data-driven projects and further improve my ability to communicate insights clearly. These skills will support both my academic development and progression into a **data-focused career**.
+
+## Demonstration
+
+The video below provides an overview of how Python is used for data analysis and visualisation, supporting the techniques applied in the projects presented in this portfolio.
+
+{{< video https://www.youtube.com/watch?v=a9UrKTVEeZA >}}
