@@ -20,6 +20,7 @@ I approached these challenges by working through them step by step. I tested cha
 
 This process showed me that technical work often involves **debugging, testing, and refining solutions**, rather than expecting everything to work immediately.
 
+
 ::: {.callout-important}
 A key lesson from this project is that professional digital work is not only about writing content — it also involves **testing, debugging, refining, and presenting work effectively**.
 :::
@@ -43,6 +44,8 @@ I resolved this by installing the required packages and ensuring the Python envi
 The skills developed in this project will be valuable in both academic and professional contexts. In the future, I aim to build more advanced data analysis projects and continue improving how I communicate technical work.
 
 This experience has increased my confidence in using digital tools not only to complete assignments, but also to create work that is **polished, purposeful, and professionally presented**.
+
+These skills are directly applicable to a future role in data analysis, where structuring data, debugging workflows, and communicating insights are essential.
 
 ## Development Process
 
