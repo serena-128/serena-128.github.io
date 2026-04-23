@@ -50,3 +50,13 @@ fig = px.line(
 
 fig
 ```
+## Limitations and Next Steps
+
+This analysis is based on a small dataset and is intended to demonstrate analytical techniques rather than draw real-world conclusions. Future work could involve using larger datasets, incorporating additional variables, and applying statistical methods to strengthen the analysis.
+
+
+## Reflection
+
+This project strengthened my ability to organise data, create visualisations, and interpret trends using Python.
+
+It also demonstrated how data analysis can be used to communicate insights clearly, which is an important skill for future work in data analysis.
