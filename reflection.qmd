@@ -57,3 +57,11 @@ C --> D[Testing & Debugging]
 D --> E[Styling]
 E --> F[Final Reflection]
 ```
+## Additional Learning Resource
+
+The video below provides an overview of version control using Git and GitHub, supporting the concepts applied throughout the development of this ePortfolio.
+
+{{< video https://www.youtube.com/watch?v=RGOj5yH7evk >}}
+
+You can also view the video directly here:  
+[Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
