@@ -7,9 +7,11 @@ title: "Contact"
 I welcome opportunities for collaboration, feedback, and professional connection. Please feel free to get in touch using the details below.
 
 ::: {.section-card}
+
 - **Email:** serena.emedeke2@mail.dcu.ie  
 - **GitHub:** [serena-128](https://github.com/serena-128)  
-- **LinkedIn:** [Serena Emedeke](https://www.linkedin.com/in/serena-e-606aa122a/)
+- **LinkedIn:** [Serena Emedeke](https://www.linkedin.com/in/serena-e-606aa122a/)  
+
 :::
 
 ## References
@@ -19,4 +21,3 @@ References are available upon request.
 ::: {.callout-tip}
 Thank you for taking the time to view my portfolio. I welcome any feedback or opportunities to collaborate.
 :::
-

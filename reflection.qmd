@@ -65,3 +65,11 @@ The video below provides an overview of version control using Git and GitHub, su
 
 You can also view the video directly here:  
 [Git and GitHub for Beginners](https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+
+## References
+
+These resources supported my learning during the development of this portfolio.
+
+- Programming with Mosh. (2020). *Git and GitHub for Beginners – Crash Course*. YouTube. https://www.youtube.com/watch?v=RGOj5yH7evk  
+- Intro to Data Analysis / Visualization with Python, Matplotlib and Pandas. (2018). YouTube. https://www.youtube.com/watch?v=a9UrKTVEeZA  

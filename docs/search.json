@@ -165,14 +165,14 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "If you would like to get in touch, please use the details below.\n\n\nEmail: serena.emedeke2@mail.dcu.ie\n\nGitHub: serena-128\n\nLinkedIn: Serena Emedeke"
+    "text": "I welcome opportunities for collaboration, feedback, and professional connection. Please feel free to get in touch using the details below.\n\n\nEmail: serena.emedeke2@mail.dcu.ie\n\nGitHub: serena-128\n\nLinkedIn: Serena Emedeke"
   },
   {
     "objectID": "contact.html#get-in-touch",
     "href": "contact.html#get-in-touch",
     "title": "Contact",
     "section": "",
-    "text": "If you would like to get in touch, please use the details below.\n\n\nEmail: serena.emedeke2@mail.dcu.ie\n\nGitHub: serena-128\n\nLinkedIn: Serena Emedeke"
+    "text": "I welcome opportunities for collaboration, feedback, and professional connection. Please feel free to get in touch using the details below.\n\n\nEmail: serena.emedeke2@mail.dcu.ie\n\nGitHub: serena-128\n\nLinkedIn: Serena Emedeke"
   },
   {
     "objectID": "contact.html#references",
@@ -221,7 +221,7 @@
     "href": "projects/list/project-2.html#python-code",
     "title": "Monthly Budget Analysis",
     "section": "Python Code",
-    "text": "Python Code\n\n\nCode\nimport pandas as pd\nimport plotly.express as px\n\nbudget = pd.DataFrame({\n    \"Category\": [\"Rent\", \"Food\", \"Transport\", \"Entertainment\", \"Savings\"],\n    \"Amount\": [800, 250, 100, 120, 300]\n})\n\nbudget\n\nfig = px.pie(\n    budget,\n    values=\"Amount\",\n    names=\"Category\",\n    title=\"Monthly Budget Distribution\",\n    hole=0.3\n)\n\nfig\n\n\n                            \n                                            \n\n\nimage: ../../images/budget-project.png"
+    "text": "Python Code\n\n\nCode\nimport pandas as pd\nimport plotly.express as px\n\nbudget = pd.DataFrame({\n    \"Category\": [\"Rent\", \"Food\", \"Transport\", \"Entertainment\", \"Savings\"],\n    \"Amount\": [800, 250, 100, 120, 300]\n})\n\nbudget\n\nfig = px.pie(\n    budget,\n    values=\"Amount\",\n    names=\"Category\",\n    title=\"Monthly Budget Distribution\",\n    hole=0.3\n)\n\nfig"
   },
   {
     "objectID": "reflection.html#development-process",
@@ -236,5 +236,47 @@
     "title": "Monthly Budget Analysis",
     "section": "Project Steps",
     "text": "Project Steps\n\nBudget categories defined\nSpending data organised in a dataframe\nVisualisation created to show distribution\nSpending patterns interpreted"
+  },
+  {
+    "objectID": "about.html#skills-and-tools",
+    "href": "about.html#skills-and-tools",
+    "title": "About Me",
+    "section": "Skills and Tools",
+    "text": "Skills and Tools\nI have developed skills in Python, data analysis, and data visualisation using libraries such as Pandas and Plotly."
+  },
+  {
+    "objectID": "about.html#demonstration",
+    "href": "about.html#demonstration",
+    "title": "About Me",
+    "section": "Demonstration",
+    "text": "Demonstration\nThe video below provides an overview of how Python is used for data analysis and visualisation, supporting the techniques applied in the projects presented in this portfolio."
+  },
+  {
+    "objectID": "reflection.html#additional-learning-resource",
+    "href": "reflection.html#additional-learning-resource",
+    "title": "Reflection",
+    "section": "Additional Learning Resource",
+    "text": "Additional Learning Resource\nThe video below provides an overview of version control using Git and GitHub, supporting the concepts applied throughout the development of this ePortfolio.\n\nYou can also view the video directly here:\nGit and GitHub for Beginners"
+  },
+  {
+    "objectID": "projects/list/project-1.html#fig",
+    "href": "projects/list/project-1.html#fig",
+    "title": "Student Performance Analysis",
+    "section": "fig",
+    "text": "fig"
+  },
+  {
+    "objectID": "projects/list/project-2.html#interpretation",
+    "href": "projects/list/project-2.html#interpretation",
+    "title": "Monthly Budget Analysis",
+    "section": "Interpretation",
+    "text": "Interpretation\nThe chart shows how monthly expenses are distributed across different categories. Rent takes up the largest proportion of the budget, followed by savings and food, while transport and entertainment account for smaller portions.\nThis suggests that fixed costs such as rent have the greatest impact on overall spending, highlighting the importance of budgeting effectively."
+  },
+  {
+    "objectID": "reflection.html#references",
+    "href": "reflection.html#references",
+    "title": "Reflection",
+    "section": "References",
+    "text": "References\nThese resources supported my learning during the development of this portfolio.\n\nProgramming with Mosh. (2020). Git and GitHub for Beginners – Crash Course. YouTube. https://www.youtube.com/watch?v=RGOj5yH7evk\n\nIntro to Data Analysis / Visualization with Python, Matplotlib and Pandas. (2018). YouTube. https://www.youtube.com/watch?v=a9UrKTVEeZA"
   }
 ]

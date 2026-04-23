@@ -50,24 +50,3 @@ fig = px.line(
 
 fig
 ```
-## Interpretation
-
-The chart shows a clear positive relationship between study hours and student performance. As study time increases, scores also increase, indicating a strong upward trend.
-
-This suggests that increased study time has a direct impact on academic performance in this dataset.
-
-::: {.callout-tip}
-## Key Insight
-
-The analysis indicates a clear positive relationship between study hours and academic performance. This suggests that consistent study time can have a meaningful effect on academic outcomes.
-:::
-
-## Reflection
-
-This project demonstrates how data analysis can be used to identify relationships between variables. 
-
-Through this task, I developed my ability to create datasets, generate visualisations, and interpret trends. In future, this analysis could be extended by including more data points or additional variables such as revision methods or subject difficulty.
-
-This project demonstrates my ability to apply Python, data analysis, and data visualisation techniques to identify and communicate meaningful insights.
-
-
